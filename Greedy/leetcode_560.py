@@ -1,3 +1,16 @@
+"""
+Input: num = 2736
+Output: 7236
+Explanation: Swap the number 2 and the number 7.
+
+Input: num = 9973
+Output: 9973
+Explanation: No swap.
+"""
+
+#Find i which is in increasing order, that means there has a chance to swap.
+#Then find the most right (>=) max_value after i+1 and the most left before i, and swap them.
+
 #Find a index i, where there is a increasing order
 #On the right side of i, find the max value (max_val) and its index (max_idx)
 #On the left side of i, find the most left value and its index (left_idx), which is less than max_val
