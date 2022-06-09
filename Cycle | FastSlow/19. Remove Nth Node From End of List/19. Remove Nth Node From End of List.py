@@ -24,6 +24,15 @@ class Solution:
             cur = cur.next
         return dummy_head.next
     
+"""
+time complexity: O(L)   L is # of nodes in the list
+space complexity: O(1)
+
+let faster pointer go n steps first, then the gap between lower and faster pointer would be n
+when faster pointer reach the end, the slower pointer reach the nth node from the end of list
+So, we can find the target by one traversal
+"""
+    
 if __name__ == '__main__':
     s = Solution()
     head = s.removeNthFromEnd(s.arr2linkedList([1,2,3,4,5]), 2)
@@ -33,3 +42,4 @@ if __name__ == '__main__':
         head = head.next
         check = check.next
     assert head == check == None
+        
