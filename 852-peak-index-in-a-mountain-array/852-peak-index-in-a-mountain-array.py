@@ -9,7 +9,7 @@ class Solution:
                 left = mid + 1
             else:
                 right = mid
-        return left
+        #return left
     
     # time complexity: O(log n)
     # space complecity: O(1)
