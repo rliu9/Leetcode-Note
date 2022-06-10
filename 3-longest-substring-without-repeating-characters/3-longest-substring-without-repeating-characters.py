@@ -9,6 +9,9 @@ class Solution:
             d[s[j]] = j
         return res
     
+    # time complexity: O(n)
+    # space complexity: O(n)
+    
 if __name__ == '__main__':
     """
     abcabcbb
