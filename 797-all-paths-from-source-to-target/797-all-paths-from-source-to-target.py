@@ -14,5 +14,7 @@ class Solution:
         # kick of the backtracking, starting from the source node (0).
         path = deque([0])
         backtrack(0, path)
-
         return res
+    
+    # time complexity: O(2^N * N)
+    # space complexity: O(2^N * N)
