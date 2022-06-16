@@ -1,20 +1,15 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-        target,res = len(graph) - 1,[]
-
-        def backtrack(currNode, path):
-            if currNode == target:
-                res.append(list(path))
+        last_node, res = len(graph) - 1, []
+        def backtracking(cur_node, path):
+            if cur_node == last_node:
+                res.append(path[:])
                 return
-            # explore the neighbor nodes one after another.
-            for nextNode in graph[currNode]:
-                path.append(nextNode)
-                backtrack(nextNode, path)
+            for i in graph[cur_node]:
+                path.append(i)
+                backtracking(i, path)
                 path.pop()
-        # kick of the backtracking, starting from the source node (0).
-        path = deque([0])
-        backtrack(0, path)
+        backtracking(0,[0])
         return res
-    
     # time complexity: O(2^N * N)
     # space complexity: O(2^N * N)
