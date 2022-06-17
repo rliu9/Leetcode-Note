@@ -8,9 +8,9 @@ class Solution:
             if sum(cur) > target:
                 return
             for i in range(index, len(candidates)):
-                if candidates.count(candidates[i]) < 2:
-                    cur.append(candidates[i])
-                    backtracking(i, cur)
-                    cur.pop()
+                #if candidates.count(candidates[i]) < 2:
+                cur.append(candidates[i])
+                backtracking(i, cur)
+                cur.pop()
         backtracking(0, [])
         return res
