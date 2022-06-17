@@ -1,12 +1,19 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         res = []
-        def traverse(path, nums):
-            if not nums and path not in res:
-                res.append(path[:])
+        def backtrack(cur, counter):
+            if len(cur) == len(nums):
+                res.append(cur[:])
                 return
-            
-            for i in range(len(nums)):
-                traverse(path + [nums[i]], nums[:i] + nums[i + 1:])
-        traverse([], nums)
+            for num in counter:
+                if counter[num] > 0:
+                    cur.append(num)
+                    counter[num] -= 1
+                    backtrack(cur, counter)
+                    cur.pop()
+                    counter[num] += 1
+        backtrack([], Counter(nums))
         return res
+    
+    # O(N!)
+    # O(N)
