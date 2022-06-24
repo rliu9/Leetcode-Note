@@ -8,7 +8,6 @@ class Solution:
                 else:
                     dp[i][j] = max(dp[i+1][j], dp[i][j+1])
         return dp[0][0]
-        dp_grid = [[0] * (len(text2) + 1) for _ in range(len(text1) + 1)]
         
         # Time complexity: O(M*N)
         # Space complexity: O(M*N)
