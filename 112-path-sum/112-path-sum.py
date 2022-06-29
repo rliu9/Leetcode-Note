@@ -14,4 +14,7 @@ class Solution:
             else:
                 return dfs(root.left, cur_sum) or dfs(root.right, cur_sum)
         return dfs(root,0)
+    
+    # O(n)
+    # O(n) worst(unbalanced: one child) and O(logn) best
         
