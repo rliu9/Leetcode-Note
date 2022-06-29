@@ -23,4 +23,7 @@ class Solution:
         self.res = 0
         self.dfs2(root, targetSum)
         return self.res
+    
+    # O(nlogn) - O(n^2)
+    # O(logn) - O(n)
         
