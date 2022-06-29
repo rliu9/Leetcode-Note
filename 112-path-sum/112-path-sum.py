@@ -17,4 +17,10 @@ class Solution:
     
     # O(n)
     # O(n) worst(unbalanced: one child) and O(logn) best
+    
+if __name__ == '__main__':
+    s = Solution()
+    t = TreeNode(1)
+    t.left,t.right = TreeNode(2),TreeNode(3)
+    assert False == s.hasPathSum(t, 5)
         
