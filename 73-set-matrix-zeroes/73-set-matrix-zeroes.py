@@ -14,3 +14,6 @@ class Solution:
             for c in range(len(matrix[0])):
                 if r in zeros_row or c in zeros_col:
                     matrix[r][c] = 0
+                    
+        # Time Complexity: O(M*N)
+        # Space Complexity: O(M+N)
