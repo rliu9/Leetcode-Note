@@ -13,3 +13,6 @@ class Solution:
                 else:
                     dp[r][c] = min(dp[r][c], grid[r][c] + min(dp[r-1][c],dp[r][c-1]))
         return dp[-1][-1]
+    
+    # Time complexity: O(m*n)
+    # Space complexity: O(m*n)
