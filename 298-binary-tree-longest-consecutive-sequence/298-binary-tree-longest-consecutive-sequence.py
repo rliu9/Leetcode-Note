@@ -18,5 +18,5 @@ class Solution:
         return self.res
     
     # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Space Complexity: O(h)
         
