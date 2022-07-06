@@ -16,4 +16,7 @@ class Solution:
                 return dfs(root.left,root,2) or dfs(root.right,root,2)
         dfs(root,root,1)
         return self.res
+    
+    # Time Complexity: O(n)
+    # Space Complexity: O(n)
         
