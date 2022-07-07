@@ -30,21 +30,17 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        def preorder_decode():
-            if data[self.curr_idx] == 'none':
-                self.curr_idx += 1
+        self.idx = 0
+        def dfs_decode(data):
+            if data[self.idx] == 'none':
+                self.idx += 1
                 return
-            node = TreeNode(int(data[self.curr_idx]))
-            self.curr_idx += 1
-            node.left = preorder_decode()
-            node.right = preorder_decode()
+            node = TreeNode(int(data[self.idx]))
+            self.idx += 1
+            node.left = dfs_decode(data)
+            node.right = dfs_decode(data)
             return node
-        
-        data = data.split(",")
-        self.curr_idx, n = 0, len(data)
-        return preorder_decode()
-        
-        
+        return dfs_decode(data.split(','))
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
