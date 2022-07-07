@@ -2,16 +2,14 @@ class Solution:
     def countAndSay(self, n: int) -> str:
         res = '1'
         for _ in range(1, n):
-            count, next_res, cur = 0, '', res[0]
+            count, temp, num = 0, '', res[0]
             for i in res:
-                if i == cur:
+                if num == i:
                     count += 1
                 else:
-                    next_res += str(count)
-                    next_res += cur
-                    cur = i
+                    temp += str(count) + num
+                    num = i
                     count = 1
-            next_res += str(count)
-            next_res += cur
-            res = next_res
+            temp += str(count) + num   
+            res = temp
         return res
