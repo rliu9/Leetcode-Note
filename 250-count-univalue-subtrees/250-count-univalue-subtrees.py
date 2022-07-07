@@ -16,3 +16,6 @@ class Solution:
         if not root:return 0
         dfs(root)
         return self.res
+    
+    # O(n)
+    # O(h)
