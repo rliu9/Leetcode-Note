@@ -7,12 +7,12 @@
 class Solution:
     def countUnivalSubtrees(self, root: Optional[TreeNode]) -> int:
         self.res = 0
-        def dfs(root,val):
+        def dfs(root):
             if not root:return True
-            left,right = dfs(root.left,val),dfs(root.right,val)
-            if left and right and (not root.left or root.left.val == root.val) and (not root.right or root.right.val == root.val):
+            left,right = dfs(root.left),dfs(root.right)
+            if left and right and (not root.left or root.left.val==root.val) and (not root.right or root.right.val==root.val):
                 self.res += 1
                 return True
         if not root:return 0
-        dfs(root,root.val)
+        dfs(root)
         return self.res
