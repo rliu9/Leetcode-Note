@@ -12,7 +12,7 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 ## Backtracking
 | # | Problem |
 |---| ------- |
-| 22 |  |
+| 22 | [generate-parentheses](https://github.com/freakleesin/Leetcode-Note/tree/main/22-generate-parentheses) |
 | 39 |  |
 | 40 |  |
 | 46 |  |
@@ -24,12 +24,16 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 | 797 |  |
 
 # BFS
+| # | Problem |
+|---| ------- |
 | 296 | [best-meeting-point] |
 | 542 | [01-Matrix] |
 | 994 | [Rotting-Oranges] |
 | 1091 | [Shortest-Path-in-Binary-Matrix] |
 
 ## Binary Search
+| # | Problem |
+|---| ------- |
 | 33 | [Search-in-Rotated-Sorted-Array] |
 | 153 | [Find-Minimum-in-Rotated-Sorted-Array] |
 | 162 | [Find-Peak-Element] |
@@ -37,15 +41,21 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 | 2300 | [successful-pairs-of-spells-and-potions] |
 
 ## Bit Manipulation
+| # | Problem |
+|---| ------- |
 | 201| [bitwise-and-of-numbers-range] |
 
 ## Cycle | FastSlow
+| # | Problem |
+|---| ------- |
 | 19 | [Remove-Nth-Node-From-End-of-List] |
 | 141 | [Linked-List-Cycle] |
 | 142 | [Linked-List-Cycle-II] |
 | 876 | [Middle-of-the-Linked-List] |
 
 ## DFS
+| # | Problem |
+|---| ------- |
 | 112 | [path-sum] |
 | 117 | [populating-next-right-pointers-in-each-node-ii] |
 | 130 | [surrounded-regions] |
@@ -58,6 +68,8 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 | 572 | [subtree-of-another-tree] |
 
 # DP
+| # | Problem |
+|---| ------- |
 | 5 | [longest-palindromic-substring] |
 | 62 | [unique-paths] |
 | 64 | [minimum-path-sum] |
@@ -78,23 +90,33 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 | 2327 | [number-of-people-aware-of-a-secret] |
 
 ## Greedy
+| # | Problem |
+|---| ------- |
 | 45 | [jump-game-ii] |
 | 55 | [jump-game] |
 | 452 | [minimum-number-of-arrows-to-burst-balloons] |
 
 ## OOD
+| # | Problem |
+|---| ------- |
 | 146 | [lru-cache] |
 | 384 | [shuffle-an-array] |
 | 604 | [design-compressed-string-iterator] |
 
 ## Prefix
+| # | Problem |
+|---| ------- |
 | 1588 | [sum-of-all-odd-length-subarrays] |
 
 ## Recursion
+| # | Problem |
+|---| ------- |
 | 50 | [powx-n] |
 | 221 | [maximal-square] |
 
 ## String
+| # | Problem |
+|---| ------- |
 | 8 | [string-to-integer-atoi] |
 | 38 | [count-and-say] |
 | 187 | [repeated-dna-sequences] |
@@ -103,6 +125,8 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 | 1427 | [perform-string-shifts] |
 
 ## Sliding Window
+| # | Problem |
+|---| ------- |
 | 3 | [longest-substring-without-repeating-characters] |
 | 209 | [minimum-size-subarray-sum] |
 | 219 | [contains-duplicate-ii] |
@@ -111,6 +135,8 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 | 1151 | [minimum-swaps-to-group-all-1s-together] |
 
 ## Two Pointer
+| # | Problem |
+|---| ------- |
 | 11 | [container-with-most-water] |
 | 15 | [3sum] |
 | 31 | [next-permutation] |
@@ -119,6 +145,8 @@ Hashtable does not allow null keys or values. HashMap allows one null key and an
 | 986 | [interval-list-intersections] |
 
 ## Other
+| # | Problem |
+|---| ------- |
 | 17 | [letter-combinations-of-a-phone-number] |
 | 36 | [valid-sudoku] |
 | 37 | [sudoku-solver] |
