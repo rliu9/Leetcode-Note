@@ -89,6 +89,7 @@
 | 45 | [jump-game-ii](https://github.com/freakleesin/Leetcode-Note/tree/main/45-jump-game-ii) |
 | 55 | [jump-game](https://github.com/freakleesin/Leetcode-Note/tree/main/55-jump-game) |
 | 452 | [minimum-number-of-arrows-to-burst-balloons](https://github.com/freakleesin/Leetcode-Note/tree/main/452-minimum-number-of-arrows-to-burst-balloons) |
+|2332| [the-latest-time-to-catch-a-bus](https://github.com/freakleesin/Leetcode-Note/tree/main/2332-the-latest-time-to-catch-a-bus) |
 
 ## OOD
 | # | Problem |
