@@ -9,7 +9,7 @@ class Solution:
                 i += 1
             while j < n and target[j] == '_':
                 j += 1
-            if i < n and j < n and (start[i] == 'L' and i < j or start[i] == 'R' and i > j):
+            if i < n and j < n and ((start[i] == 'L' and i < j) or (start[i] == 'R' and i > j)):
                 return False
             i += 1
             j += 1
