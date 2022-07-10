@@ -153,6 +153,7 @@
 | 128 | [longest-consecutive-sequence](https://github.com/freakleesin/Leetcode-Note/tree/main/128-longest-consecutive-sequence) |
 | 172 | [factorial-trailing-zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/172-factorial-trailing-zeroes) |
 | 202 | [happy-number](https://github.com/freakleesin/Leetcode-Note/tree/main/202-happy-number) |
+| 237 | [Delete Node in a Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/237-delete-node-in-a-linked-list) |
 | 266 | [palindrome-permutation](https://github.com/freakleesin/Leetcode-Note/tree/main/266-palindrome-permutation) |
 | 199 | [bulls-and-cows]() |
 | 409 | [longest-palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/409-longest-palindrome) |
