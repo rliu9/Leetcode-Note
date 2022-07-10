@@ -118,6 +118,7 @@
 | 243 | [shortest-word-distance](https://github.com/freakleesin/Leetcode-Note/tree/main/243-shortest-word-distance) |
 | 249 | [group-shifted-strings](https://github.com/freakleesin/Leetcode-Note/tree/main/249-group-shifted-strings) |
 | 1427 | [perform-string-shifts](https://github.com/freakleesin/Leetcode-Note/tree/main/1427-perform-string-shifts) |
+| 2337 | [move-pieces-to-obtain-a-string](https://github.com/freakleesin/Leetcode-Note/tree/main/2337-move-pieces-to-obtain-a-string) |
 
 ## Sliding Window
 | # | Problem |
