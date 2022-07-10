@@ -117,6 +117,7 @@
 | 187 | [repeated-dna-sequences](https://github.com/freakleesin/Leetcode-Note/tree/main/187-repeated-dna-sequences) |
 | 243 | [shortest-word-distance](https://github.com/freakleesin/Leetcode-Note/tree/main/243-shortest-word-distance) |
 | 249 | [group-shifted-strings](https://github.com/freakleesin/Leetcode-Note/tree/main/249-group-shifted-strings) |
+| 293 | [Flip Game](https://github.com/freakleesin/Leetcode-Note/tree/main/293-flip-game) |
 | 1427 | [perform-string-shifts](https://github.com/freakleesin/Leetcode-Note/tree/main/1427-perform-string-shifts) |
 | 2337 | [move-pieces-to-obtain-a-string](https://github.com/freakleesin/Leetcode-Note/tree/main/2337-move-pieces-to-obtain-a-string) |
 
