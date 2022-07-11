@@ -54,6 +54,7 @@
 | 117 | [populating-next-right-pointers-in-each-node-ii](https://github.com/freakleesin/Leetcode-Note/tree/main/117-populating-next-right-pointers-in-each-node-ii) |
 | 130 | [surrounded-regions](https://github.com/freakleesin/Leetcode-Note/tree/main/130-surrounded-regions) |
 | 200 | [number-of-islands](https://github.com/freakleesin/Leetcode-Note/tree/main/200-number-of-islands) |
+| 230 | [Kth Smallest Element in a BST](https://github.com/freakleesin/Leetcode-Note/tree/main/230-kth-smallest-element-in-a-bst) |
 | 250 | [count-univalue-subtrees](https://github.com/freakleesin/Leetcode-Note/tree/main/250-count-univalue-subtrees) |
 | 297 | [serialize-and-deserialize-binary-tree](https://github.com/freakleesin/Leetcode-Note/tree/main/297-serialize-and-deserialize-binary-tree) |
 | 298 | [binary-tree-longest-consecutive-sequence](https://github.com/freakleesin/Leetcode-Note/tree/main/298-binary-tree-longest-consecutive-sequence) |
