@@ -61,6 +61,7 @@
 | 437 | [path-sum-iii](https://github.com/freakleesin/Leetcode-Note/tree/main/437-path-sum-iii) |
 | 547 | [number-of-provinces](https://github.com/freakleesin/Leetcode-Note/tree/main/547-number-of-provinces) |
 | 572 | [subtree-of-another-tree](https://github.com/freakleesin/Leetcode-Note/tree/main/572-subtree-of-another-tree) |
+| 590 | [n-ary-tree-postorder-traversal](https://github.com/freakleesin/Leetcode-Note/tree/main/590-n-ary-tree-postorder-traversal) |
 
 # DP
 | # | Problem |
