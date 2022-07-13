@@ -17,13 +17,15 @@ class Solution:
                 cur = temp
             return pre
         slow = fast = head
-        dummy_slow,dummy_fast = ListNode(0, next=slow),ListNode(0, next=fast)
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         fast = reverse_linkedlist(slow)
         slow = head
         while fast.next:
-            slow.next, slow = fast, slow.next
-            fast.next, fast = slow, fast.next
+            temp = slow.next
+            slow.next = fast
+            slow = fast
+            fast = temp
+            
             
