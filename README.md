@@ -6,46 +6,47 @@
 
 | # | Problem |
 |---| ------- |
-| 22 | [generate-parentheses](https://github.com/freakleesin/Leetcode-Note/tree/main/22-generate-parentheses) |
-| 39 | [combination-sum](https://github.com/freakleesin/Leetcode-Note/tree/main/39-combination-sum) |
-| 40 | [combination-sum-ii](https://github.com/freakleesin/Leetcode-Note/tree/main/40-combination-sum-ii) |
-| 46 | [permutations](https://github.com/freakleesin/Leetcode-Note/tree/main/46-permutations) |
-| 47 | [permutations-ii](https://github.com/freakleesin/Leetcode-Note/tree/main/47-permutations-ii) |
+| 22 | [Generate Parentheses](https://github.com/freakleesin/Leetcode-Note/tree/main/22-generate-parentheses) |
+| 39 | [Combination Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/39-combination-sum) |
+| 40 | [Combination Sum ii](https://github.com/freakleesin/Leetcode-Note/tree/main/40-combination-sum-ii) |
+| 46 | [Permutations](https://github.com/freakleesin/Leetcode-Note/tree/main/46-permutations) |
+| 47 | [Permutations ii](https://github.com/freakleesin/Leetcode-Note/tree/main/47-permutations-ii) |
 | 77 | [Combinations](https://github.com/freakleesin/Leetcode-Note/tree/main/77.%20Combinations) |
-| 78 | [subsets](https://github.com/freakleesin/Leetcode-Note/tree/main/78-subsets) |
-| 79 | [word-search](https://github.com/freakleesin/Leetcode-Note/tree/main/79-word-search) |
-| 90 | [subsets-ii](https://github.com/freakleesin/Leetcode-Note/tree/main/90-subsets-ii) |
-| 797 | [all-paths-from-source-to-target](https://github.com/freakleesin/Leetcode-Note/tree/main/797-all-paths-from-source-to-target) |
+| 78 | [Subsets](https://github.com/freakleesin/Leetcode-Note/tree/main/78-subsets) |
+| 79 | [Word Search](https://github.com/freakleesin/Leetcode-Note/tree/main/79-word-search) |
+| 90 | [Subsets ii](https://github.com/freakleesin/Leetcode-Note/tree/main/90-subsets-ii) |
+| 797 | [All Paths From Source to Target](https://github.com/freakleesin/Leetcode-Note/tree/main/797-all-paths-from-source-to-target) |
 
 ## BFS
 | # | Problem |
 |---| ------- |
-| 296 | [best-meeting-point](https://github.com/freakleesin/Leetcode-Note/tree/main/296-best-meeting-point) |
-| 542 | [01-Matrix](https://github.com/freakleesin/Leetcode-Note/tree/main/542.%2001%20Matrix) |
-| 994 | [Rotting-Oranges](https://github.com/freakleesin/Leetcode-Note/tree/main/994.%20Rotting%20Oranges) |
-| 1091 | [Shortest-Path-in-Binary-Matrix](https://github.com/freakleesin/Leetcode-Note/tree/main/1091-shortest-path-in-binary-matrix) |
+| 296 | [Best Meeting Point](https://github.com/freakleesin/Leetcode-Note/tree/main/296-best-meeting-point) |
+| 542 | [01 Matrix](https://github.com/freakleesin/Leetcode-Note/tree/main/542.%2001%20Matrix) |
+| 994 | [Rotting Oranges](https://github.com/freakleesin/Leetcode-Note/tree/main/994.%20Rotting%20Oranges) |
+| 1091 | [Shortest Path in Binary Matrix](https://github.com/freakleesin/Leetcode-Note/tree/main/1091-shortest-path-in-binary-matrix) |
 
 ## Binary Search
 | # | Problem |
 |---| ------- |
-| 33 | [Search-in-Rotated-Sorted-Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
-| 153 | [Find-Minimum-in-Rotated-Sorted-Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
-| 162 | [Find-Peak-Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
-| 852 | [peak-index-in-a-mountain-array](https://github.com/freakleesin/Leetcode-Note/tree/main/852-peak-index-in-a-mountain-array) |
-| 2300 | [successful-pairs-of-spells-and-potions](https://github.com/freakleesin/Leetcode-Note/tree/main/2300-successful-pairs-of-spells-and-potions) |
+| 33 | [Search in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
+| 162 | [Find Peak Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
+| 852 | [Peak Index in a Mountain Array](https://github.com/freakleesin/Leetcode-Note/tree/main/852-peak-index-in-a-mountain-array) |
+| 2300 | [Successful Pairs of Spells and Potions](https://github.com/freakleesin/Leetcode-Note/tree/main/2300-successful-pairs-of-spells-and-potions) |
 
 ## Bit Manipulation
 | # | Problem |
 |---| ------- |
-| 201| [bitwise-and-of-numbers-range](https://github.com/freakleesin/Leetcode-Note/tree/main/201-bitwise-and-of-numbers-range) |
+| 201| [Bitwise and of Numbers Range](https://github.com/freakleesin/Leetcode-Note/tree/main/201-bitwise-and-of-numbers-range) |
 
 ## Cycle | FastSlow
 | # | Problem |
 |---| ------- |
 | 19 | [Remove-Nth-Node-From-End-of-List](https://github.com/freakleesin/Leetcode-Note/tree/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) |
-| 141 | [Linked-List-Cycle](https://github.com/freakleesin/Leetcode-Note/tree/main/141.%20Linked%20List%20Cycle) |
-| 142 | [Linked-List-Cycle-II](https://github.com/freakleesin/Leetcode-Note/tree/main/142.%20Linked%20List%20Cycle%20II) |
-| 876 | [Middle-of-the-Linked-List](https://github.com/freakleesin/Leetcode-Note/tree/main/876.%20Middle%20of%20the%20Linked%20List) |
+| 141 | [Linked List Cycle](https://github.com/freakleesin/Leetcode-Note/tree/main/141.%20Linked%20List%20Cycle) |
+| 142 | [Linked List Cycle II](https://github.com/freakleesin/Leetcode-Note/tree/main/142.%20Linked%20List%20Cycle%20II) |
+| 143 | [Reorder List](https://github.com/freakleesin/Leetcode-Note/tree/main/143-reorder-list) |
+| 876 | [Middle of the Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/876.%20Middle%20of%20the%20Linked%20List) |
 
 ## DFS
 | # | Problem |
