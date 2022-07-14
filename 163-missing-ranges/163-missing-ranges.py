@@ -1,12 +1,13 @@
 class Solution:
     def findMissingRanges(self, nums: List[int], lower: int, upper: int) -> List[str]:
-        ans = []
-        for n1, n2 in zip([lower-1, *nums], [*nums, upper+1]):
-            if n2 - n1 == 2:
-                ans.append(str(n1 + 1))
-            elif n2 - n1 > 2:
-                ans.append(str(n1+1) + "->" + str(n2 - 1))
-        return ans
+        nums = [lower-1] + nums + [upper+1]
+        res = []
+        for i in range(1, len(nums)):
+            if nums[i]-nums[i-1] == 2:
+                res.append(str(nums[i]-1))
+            elif nums[i]-nums[i-1] > 2:
+                res.append(f"{nums[i-1]+1}->{nums[i]-1}")
+        return res
     
     # O(n)
     # O(1)
