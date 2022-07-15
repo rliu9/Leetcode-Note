@@ -70,6 +70,7 @@
 |---| ------- |
 | 5 | [Longest Palindromic Substring](https://github.com/freakleesin/Leetcode-Note/tree/main/5-longest-palindromic-substring) |
 | 62 | [Unique Paths](https://github.com/freakleesin/Leetcode-Note/tree/main/62-unique-paths) |
+| 63 | [Unique Paths II](https://github.com/freakleesin/Leetcode-Note/tree/main/63-unique-paths-ii) |
 | 64 | [Minimum Path Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/64-minimum-path-sum) |
 | 72 | [Edit Distance](https://github.com/freakleesin/Leetcode-Note/tree/main/72-edit-distance) |
 | 91 | [Decode Ways](https://github.com/freakleesin/Leetcode-Note/tree/main/91-decode-ways) |
