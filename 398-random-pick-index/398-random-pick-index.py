@@ -6,7 +6,7 @@ class Solution:
             self.hash[n].append(i)
 
     def pick(self, target: int) -> int:
-        return random.choice(self.hash[target])
+        return random.choice(self.hash[target]) # O(1)
 
 
 # Your Solution object will be instantiated and called as such:
