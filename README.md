@@ -114,6 +114,7 @@
 |---| ------- |
 | 50 | [powx n](https://github.com/freakleesin/Leetcode-Note/tree/main/50-powx-n) |
 | 221 | [Maximal Square](https://github.com/freakleesin/Leetcode-Note/tree/main/221-maximal-square) |
+| 559 | [Maximum Depth of n-ary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/559-maximum-depth-of-n-ary-tree) |
 
 ## String
 | # | Problem |
