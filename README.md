@@ -101,6 +101,7 @@
 |---| ------- |
 | 146 | [LRU Cache](https://github.com/freakleesin/Leetcode-Note/tree/main/146-lru-cache) |
 | 384 | [Shuffle an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/384-shuffle-an-array) |
+| 398 | [Random Pick Index](https://github.com/freakleesin/Leetcode-Note/tree/main/398-random-pick-index) |
 | 604 | [Design Compressed String Iterator](https://github.com/freakleesin/Leetcode-Note/tree/main/604-design-compressed-string-iterator) |
 
 ## Prefix
