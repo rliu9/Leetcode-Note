@@ -100,6 +100,7 @@
 | # | Problem |
 |---| ------- |
 | 146 | [LRU Cache](https://github.com/freakleesin/Leetcode-Note/tree/main/146-lru-cache) |
+| 155 | [Min Stack](https://github.com/freakleesin/Leetcode-Note/tree/main/155-min-stack) |
 | 384 | [Shuffle an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/384-shuffle-an-array) |
 | 398 | [Random Pick Index](https://github.com/freakleesin/Leetcode-Note/tree/main/398-random-pick-index) |
 | 604 | [Design Compressed String Iterator](https://github.com/freakleesin/Leetcode-Note/tree/main/604-design-compressed-string-iterator) |
@@ -169,3 +170,5 @@
 | 448 | [Find All Numbers Disappeared in an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/448-find-all-numbers-disappeared-in-an-array) |
 | 454 | [4Sum II](https://github.com/freakleesin/Leetcode-Note/tree/main/454-4sum-ii) |
 | 2310 | [Sum of Numbers With Units Digit K](https://github.com/freakleesin/Leetcode-Note/tree/main/2310-sum-of-numbers-with-units-digit-k) |
+| 2341 | [Maximum Number of Pairs in Array](https://github.com/freakleesin/Leetcode-Note/tree/main/2341-maximum-number-of-pairs-in-array) |
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://github.com/freakleesin/Leetcode-Note/blob/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) |
