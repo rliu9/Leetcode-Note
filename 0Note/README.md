@@ -1,3 +1,11 @@
+# Time Complexity Cheet Sheet
+
+| # | Problem |
+|---|---------|
+| ``` sort() ``` | O(nlogn) |
+| ``` remove() ``` | O(n) |
+| ``` reverse() ``` | O(n) |
+
 # Random
 
 ```
