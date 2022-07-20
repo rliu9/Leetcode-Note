@@ -5,6 +5,7 @@
 | ``` sort() ``` | O(nlogn) |
 | ``` remove() ``` | O(n) |
 | ``` reverse() ``` | O(n) |
+| ``` bisect.insort(list,num) ``` | O(n) |
 
 # Random
 
