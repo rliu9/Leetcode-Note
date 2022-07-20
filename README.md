@@ -96,6 +96,11 @@
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://github.com/freakleesin/Leetcode-Note/tree/main/452-minimum-number-of-arrows-to-burst-balloons) |
 |2332| [The Latest Time to Catch a Bus](https://github.com/freakleesin/Leetcode-Note/tree/main/2332-the-latest-time-to-catch-a-bus) |
 
+## Heap
+| # | Problem |
+|---|---------|
+| 295 | [Find Median From Data Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/295-find-median-from-data-stream) |
+
 ## OOD
 | # | Problem |
 |---| ------- |
