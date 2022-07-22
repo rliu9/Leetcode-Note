@@ -7,7 +7,14 @@
 | ``` reverse() ``` | O(n) |
 | ``` bisect.insort(list,num) ``` | O(n) |
 
-# Random
+# functools
+
+```
+lru_cache
+```
+
+
+# random
 
 ```
 random.sample(list, int)
