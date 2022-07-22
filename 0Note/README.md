@@ -13,6 +13,8 @@
 lru_cache
 ```
 
+# Math
+Sum of [1, 2, ..., n] : ``` n * (n+1)) // 2 ```
 
 # random
 
