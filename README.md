@@ -31,6 +31,7 @@
 | 33 | [Search in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
 | 162 | [Find Peak Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
+| 367 | [Valid Perfect Square](https://github.com/freakleesin/Leetcode-Note/tree/main/367-valid-perfect-square) |
 | 852 | [Peak Index in a Mountain Array](https://github.com/freakleesin/Leetcode-Note/tree/main/852-peak-index-in-a-mountain-array) |
 | 2300 | [Successful Pairs of Spells and Potions](https://github.com/freakleesin/Leetcode-Note/tree/main/2300-successful-pairs-of-spells-and-potions) |
 
@@ -160,6 +161,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://github.com/freakleesin/Leetcode-Note/tree/main/17-letter-combinations-of-a-phone-number) |
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
 | 37 | [Sudoku Solver](https://github.com/freakleesin/Leetcode-Note/tree/main/37-sudoku-solver) |
+| 56 | [Merge Intervals](https://github.com/freakleesin/Leetcode-Note/tree/main/56-merge-intervals) |
 | 59 | [Spiral Matrix II](https://github.com/freakleesin/Leetcode-Note/tree/main/59-spiral-matrix-ii) |
 | 73 | [Set Matrix Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/73-set-matrix-zeroes) |
 | 86 | [Partition List](https://github.com/freakleesin/Leetcode-Note/tree/main/86-partition-list) |
@@ -170,6 +172,7 @@
 | 202 | [Happy Number](https://github.com/freakleesin/Leetcode-Note/tree/main/202-happy-number) |
 | 237 | [Delete Node in a Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/237-delete-node-in-a-linked-list) |
 | 266 | [Palindrome Permutation](https://github.com/freakleesin/Leetcode-Note/tree/main/266-palindrome-permutation) |
+| 268 | [Missing Number](https://github.com/freakleesin/Leetcode-Note/blob/main/268-missing-number/268-missing-number.py) |
 | 199 | [Bulls and Cows]() |
 | 409 | [Longest Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/409-longest-palindrome) |
 | 448 | [Find All Numbers Disappeared in an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/448-find-all-numbers-disappeared-in-an-array) |
