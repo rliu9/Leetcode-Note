@@ -10,3 +10,6 @@ class Solution:
             else:
                 right = x - 1
         return False
+    
+    # Time Complexity: O(log N)
+    # Space Complexity: O(1)
