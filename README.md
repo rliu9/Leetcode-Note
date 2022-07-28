@@ -29,6 +29,7 @@
 | # | Problem |
 |---| ------- |
 | 33 | [Search in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
+| 69 | [Sqrtx](https://github.com/freakleesin/Leetcode-Note/tree/main/69-sqrtx) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
 | 162 | [Find Peak Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
 | 367 | [Valid Perfect Square](https://github.com/freakleesin/Leetcode-Note/tree/main/367-valid-perfect-square) |
