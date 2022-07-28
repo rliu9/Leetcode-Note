@@ -165,6 +165,7 @@
 | 59 | [Spiral Matrix II](https://github.com/freakleesin/Leetcode-Note/tree/main/59-spiral-matrix-ii) |
 | 73 | [Set Matrix Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/73-set-matrix-zeroes) |
 | 86 | [Partition List](https://github.com/freakleesin/Leetcode-Note/tree/main/86-partition-list) |
+| 88 | [Merge Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/88-merge-sorted-array) |
 | 125 | [Valid Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/125-valid-palindrome) |
 | 128 | [Longest Consecutive Sequence](https://github.com/freakleesin/Leetcode-Note/tree/main/128-longest-consecutive-sequence) |
 | 163 | [Missing Ranges](https://github.com/freakleesin/Leetcode-Note/tree/main/163-missing-ranges) |
