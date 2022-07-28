@@ -24,3 +24,14 @@ class Solution:
             cur = cur.next
         if carry > 0:cur.next = ListNode(carry)
         return dummy_head.next
+    
+    # Time Complexity: O(max(m,n))
+    # Space Complexity: O(max(m,n))
+    
+if __name__ == '__main__':
+    s = Solution()
+    l1 = ListNode(2)
+    l1.next, l1.next.next = ListNode(4), ListNode(3)
+    l2 = ListNode(5)
+    l2.next, l2.next.next = ListNode(6), ListNode(4)
+    print(s.addTwoNumbers(l1, l2))
