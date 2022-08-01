@@ -161,6 +161,7 @@
 |---| ------- |
 | 1 | [Two Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/1-two-sum) |
 | 2 | [Add Two Numbers](https://github.com/freakleesin/Leetcode-Note/tree/main/2-add-two-numbers) |
+| 6 | [Zigzag Conversion](https://github.com/freakleesin/Leetcode-Note/tree/main/6-zigzag-conversion) |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/freakleesin/Leetcode-Note/tree/main/17-letter-combinations-of-a-phone-number) |
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
 | 37 | [Sudoku Solver](https://github.com/freakleesin/Leetcode-Note/tree/main/37-sudoku-solver) |
