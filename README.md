@@ -117,6 +117,11 @@
 |---| ------- |
 | 1588 | [Sum of All Odd Length Subarrays](https://github.com/freakleesin/Leetcode-Note/tree/main/1588-sum-of-all-odd-length-subarrays) |
 
+## Regex
+| # | Problem |
+|---|---------|
+| 8 | [String to Integer atoi](https://github.com/freakleesin/Leetcode-Note/tree/main/8-string-to-integer-atoi) |
+
 ## Recursion
 | # | Problem |
 |---| ------- |
