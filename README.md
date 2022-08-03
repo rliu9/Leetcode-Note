@@ -77,6 +77,7 @@
 | 72 | [Edit Distance](https://github.com/freakleesin/Leetcode-Note/tree/main/72-edit-distance) |
 | 91 | [Decode Ways](https://github.com/freakleesin/Leetcode-Note/tree/main/91-decode-ways) |
 | 139 | [Word Break](https://github.com/freakleesin/Leetcode-Note/tree/main/139-word-break) |
+| 152 | [Maximum Product Subarray](https://github.com/freakleesin/Leetcode-Note/tree/main/152-maximum-product-subarray) |
 | 198 | [House Robber](https://github.com/freakleesin/Leetcode-Note/tree/main/198-house-robber) |
 | 213 | [House Robber II](https://github.com/freakleesin/Leetcode-Note/tree/main/213-house-robber-ii) |
 | 279 | [perfect Squares](https://github.com/freakleesin/Leetcode-Note/tree/main/279-perfect-squares) |
