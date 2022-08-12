@@ -1,12 +1,15 @@
+import itertools
 class Solution:
     def mostVisitedPattern(self, username: List[str], timestamp: List[int], website: List[str]) -> List[str]:
-        combined_info=collections.defaultdict(list)
-        for item in sorted(zip(username, timestamp, website), key = lambda k:(k[0],k[1])):
-            combined_info[item[0]].append(item[2])
-        patern_dict = {}
-        for key in combined_info.keys():
-            patern = set(combinations(combined_info[key],3))
-            if patern:
-                patern_dict[key]=patern
-        paternScore_dict = dict(Counter([d2 for d in patern_dict.values() for d2 in d]))
-        return max(sorted(paternScore_dict), key=paternScore_dict.get)
+        d = collections.defaultdict(list)
+        for i in sorted(zip(username, timestamp, website), key=lambda k:(k[0],k[1])):
+            d[i[0]].append(i[2])
+        d_combination = collections.defaultdict(list)
+        for i in d:
+            comb = set(itertools.combinations(d[i],3))
+            if comb:
+                d_combination[i] = comb
+        
+        list_pattern = [value for sub in d_combination.values() for value in sub]
+        d_pattern = dict(Counter(list_pattern))
+        return max(sorted(d_pattern), key=d_pattern.get)
