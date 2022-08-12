@@ -1,6 +1,18 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        return combinations([i for i in range(1, n+1)], k)
+        add, res = [], []
+        def backtracking(idx):
+            if len(add) == k:
+                res.append(add[:])
+            for i in range(idx, n+1):
+                add.append(i)
+                backtracking(i+1)
+                add.pop()
+        backtracking(1)
+        return res
+    
+    # time complexity: O(2^n)
+    # space complexity: n!/(n-k)!k! -> # of combinations to build
     
 if __name__ == '__main__':
     output = [
