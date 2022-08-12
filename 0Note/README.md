@@ -19,8 +19,10 @@ lru_cache
 format.(2, '.5f') #2.00000
 ```
 
-# Math
+# Tips
 Sum of [1, 2, ..., n] : ``` n * (n+1)) // 2 ```
+
+Dictionary d's key with highest value: ``` max(d, key=d.get) ```
 
 # random
 
