@@ -33,6 +33,7 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
 | 162 | [Find Peak Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
 | 367 | [Valid Perfect Square](https://github.com/freakleesin/Leetcode-Note/tree/main/367-valid-perfect-square) |
+| 719 | [Find k th Smallest Pair Distance](https://github.com/freakleesin/Leetcode-Note/blob/main/719-find-k-th-smallest-pair-distance/719-find-k-th-smallest-pair-distance.py) |
 | 852 | [Peak Index in a Mountain Array](https://github.com/freakleesin/Leetcode-Note/tree/main/852-peak-index-in-a-mountain-array) |
 | 2300 | [Successful Pairs of Spells and Potions](https://github.com/freakleesin/Leetcode-Note/tree/main/2300-successful-pairs-of-spells-and-potions) |
 
@@ -53,10 +54,12 @@
 ## DFS
 | # | Problem |
 |---| ------- |
+| 79 | [Word Search](https://github.com/freakleesin/Leetcode-Note/tree/main/79-word-search) |
 | 112 | [Path Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/112-path-sum) |
 | 117 | [Populating Next Right Pointers in Each Node II](https://github.com/freakleesin/Leetcode-Note/tree/main/117-populating-next-right-pointers-in-each-node-ii) |
 | 130 | [Surrounded Regions](https://github.com/freakleesin/Leetcode-Note/tree/main/130-surrounded-regions) |
 | 200 | [Number of Islands](https://github.com/freakleesin/Leetcode-Note/tree/main/200-number-of-islands) |
+| 207 | [Course Schedule](https://github.com/freakleesin/Leetcode-Note/blob/main/207-course-schedule/207-course-schedule.py) |
 | 230 | [Kth Smallest Element in a BST](https://github.com/freakleesin/Leetcode-Note/tree/main/230-kth-smallest-element-in-a-bst) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/236-lowest-common-ancestor-of-a-binary-tree) |
 | 250 | [Count Univalue Subtrees](https://github.com/freakleesin/Leetcode-Note/tree/main/250-count-univalue-subtrees) |
@@ -148,6 +151,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://github.com/freakleesin/Leetcode-Note/tree/main/3-longest-substring-without-repeating-characters) |
 | 209 | [Minimum Size Subarray Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/209-minimum-size-subarray-sum) |
 | 219 | [Contains Duplicate II](https://github.com/freakleesin/Leetcode-Note/tree/main/219-contains-duplicate-ii) |
+| 239 | [Sliding Window Maximum](https://github.com/freakleesin/Leetcode-Note/blob/main/239-sliding-window-maximum/239-sliding-window-maximum.py) |
 | 438 | [Find All Anagrams in a String](https://github.com/freakleesin/Leetcode-Note/tree/main/438-find-all-anagrams-in-a-string) |
 | 713 | [Subarray Product Less Than K](https://github.com/freakleesin/Leetcode-Note/tree/main/713-subarray-product-less-than-k) |
 | 1151 | [Minimum Swaps to Group all 1s Together](https://github.com/freakleesin/Leetcode-Note/tree/main/1151-minimum-swaps-to-group-all-1s-together) |
@@ -188,6 +192,7 @@
 | 409 | [Longest Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/409-longest-palindrome) |
 | 448 | [Find All Numbers Disappeared in an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/448-find-all-numbers-disappeared-in-an-array) |
 | 454 | [4Sum II](https://github.com/freakleesin/Leetcode-Note/tree/main/454-4sum-ii) |
+| 2221 | [Find Triangular Sum of an Array](https://github.com/freakleesin/Leetcode-Note/blob/main/2221-find-triangular-sum-of-an-array/2221-find-triangular-sum-of-an-array.py) |
 | 2310 | [Sum of Numbers With Units Digit K](https://github.com/freakleesin/Leetcode-Note/tree/main/2310-sum-of-numbers-with-units-digit-k) |
 | 2341 | [Maximum Number of Pairs in Array](https://github.com/freakleesin/Leetcode-Note/tree/main/2341-maximum-number-of-pairs-in-array) |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://github.com/freakleesin/Leetcode-Note/blob/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) |
