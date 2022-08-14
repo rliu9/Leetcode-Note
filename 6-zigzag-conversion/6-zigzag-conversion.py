@@ -1,15 +1,15 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if numRows == 1:return s
-        d = collections.defaultdict(list)
-        r, i = 0, 0
+        hashmap = collections.defaultdict(list)
+        depth, i = 0, 0
         while i < len(s):
-            while r < numRows-1 and i < len(s):
-                d[r].append(s[i])
+            while i < len(s) and depth < numRows-1:
+                hashmap[depth].append(s[i])
+                depth += 1
                 i += 1
-                r += 1
-            while r > 0 and i < len(s):
-                d[r].append(s[i])
-                r -= 1
+            while i < len(s) and depth > 0:
+                hashmap[depth].append(s[i])
+                depth -= 1
                 i += 1
-        return ''.join([item for sublist in d.values() for item in sublist])
+        return ''.join([ele for sub in hashmap.values() for ele in sub])
