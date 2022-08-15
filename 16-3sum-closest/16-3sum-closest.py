@@ -9,5 +9,5 @@ class Solution:
                 if abs(cur-target) < abs(diff_target):diff_target=cur-target
                 if cur < target:left+=1
                 else:right-=1
-                if diff_target == 0:target
+                if diff_target == 0:return target
         return target+diff_target
