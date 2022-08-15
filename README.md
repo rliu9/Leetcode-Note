@@ -28,6 +28,7 @@
 ## Binary Search
 | # | Problem |
 |---| ------- |
+| 16 | [3sum Closest](https://github.com/freakleesin/Leetcode-Note/tree/main/16-3sum-closest) |
 | 33 | [Search in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
 | 69 | [Sqrtx](https://github.com/freakleesin/Leetcode-Note/tree/main/69-sqrtx) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
@@ -162,6 +163,7 @@
 |---| ------- |
 | 11 | [Container With Most Water](https://github.com/freakleesin/Leetcode-Note/tree/main/11-container-with-most-water) |
 | 15 | [3sum](https://github.com/freakleesin/Leetcode-Note/tree/main/15-3sum) |
+| 16 | [3sum Closest](https://github.com/freakleesin/Leetcode-Note/tree/main/16-3sum-closest) |
 | 31 | [Next Permutation](https://github.com/freakleesin/Leetcode-Note/tree/main/31-next-permutation) |
 | 82 | [Remove Duplicates From Sorted List II](https://github.com/freakleesin/Leetcode-Note/tree/main/82-remove-duplicates-from-sorted-list-ii) |
 | 844 | [Backspace String Compare](https://github.com/freakleesin/Leetcode-Note/tree/main/844-backspace-string-compare) |
@@ -174,6 +176,7 @@
 | 2 | [Add Two Numbers](https://github.com/freakleesin/Leetcode-Note/tree/main/2-add-two-numbers) |
 | 6 | [Zigzag Conversion](https://github.com/freakleesin/Leetcode-Note/tree/main/6-zigzag-conversion) |
 | 12 | [Integer to Roman](https://github.com/freakleesin/Leetcode-Note/tree/main/12-integer-to-roman) |
+| 13 | [Roman to Integer](https://github.com/freakleesin/Leetcode-Note/tree/main/13-roman-to-integer) |
 | 14 | [Longest Common Prefix](https://github.com/freakleesin/Leetcode-Note/tree/main/14-longest-common-prefix) |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/freakleesin/Leetcode-Note/tree/main/17-letter-combinations-of-a-phone-number) |
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
