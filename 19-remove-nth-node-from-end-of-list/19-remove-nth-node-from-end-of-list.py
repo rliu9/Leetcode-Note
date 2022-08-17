@@ -12,3 +12,6 @@ class Solution:
             fast = fast.next
         slow.next = slow.next.next
         return dummy_head.next
+    
+    # Time Complexity: O(L)
+    # Space Complexity: O(1)
