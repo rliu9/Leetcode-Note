@@ -6,6 +6,7 @@
 | ``` remove() ``` | O(n) |
 | ``` reverse() ``` | O(n) |
 | ``` bisect.insort(list,num) ``` | O(n) |
+| ``` insertion and pop in heapq ``` | O(nlogn) |
 
 # functools
 
