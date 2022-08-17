@@ -106,6 +106,7 @@
 ## Heap
 | # | Problem |
 |---|---------|
+| 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
 | 295 | [Find Median From Data Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/295-find-median-from-data-stream) |
 
 ## OOD
