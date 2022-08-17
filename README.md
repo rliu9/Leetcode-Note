@@ -46,7 +46,7 @@
 ## Cycle | FastSlow
 | # | Problem |
 |---| ------- |
-| 19 | [Remove-Nth-Node-From-End-of-List](https://github.com/freakleesin/Leetcode-Note/tree/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) |
+| 19 | [Remove-Nth-Node-From-End-of-List](https://github.com/freakleesin/Leetcode-Note/tree/main/19-remove-nth-node-from-end-of-list) |
 | 141 | [Linked List Cycle](https://github.com/freakleesin/Leetcode-Note/tree/main/141.%20Linked%20List%20Cycle) |
 | 142 | [Linked List Cycle II](https://github.com/freakleesin/Leetcode-Note/tree/main/142.%20Linked%20List%20Cycle%20II) |
 | 143 | [Reorder List](https://github.com/freakleesin/Leetcode-Note/tree/main/143-reorder-list) |
@@ -179,6 +179,9 @@
 | 13 | [Roman to Integer](https://github.com/freakleesin/Leetcode-Note/tree/main/13-roman-to-integer) |
 | 14 | [Longest Common Prefix](https://github.com/freakleesin/Leetcode-Note/tree/main/14-longest-common-prefix) |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/freakleesin/Leetcode-Note/tree/main/17-letter-combinations-of-a-phone-number) |
+| 18 | [4sum](https://github.com/freakleesin/Leetcode-Note/tree/main/18-4sum) |
+| 20 | [Valid Parentheses](https://github.com/freakleesin/Leetcode-Note/tree/main/20-valid-parentheses) |
+| 21 | [Merge Two Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/21-merge-two-sorted-lists) |
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
 | 37 | [Sudoku Solver](https://github.com/freakleesin/Leetcode-Note/tree/main/37-sudoku-solver) |
 | 56 | [Merge Intervals](https://github.com/freakleesin/Leetcode-Note/tree/main/56-merge-intervals) |
