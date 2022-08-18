@@ -109,6 +109,13 @@
 | 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
 | 295 | [Find Median From Data Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/295-find-median-from-data-stream) |
 
+## Linked List
+| # | Problem |
+|---|---------|
+| 21 | [Merge Two Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/21-merge-two-sorted-lists) |
+| 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
+| 24 | [Swap Nodes in Pairs](https://github.com/freakleesin/Leetcode-Note/tree/main/24-swap-nodes-in-pairs) |
+
 ## OOD
 | # | Problem |
 |---| ------- |
