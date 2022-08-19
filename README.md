@@ -30,6 +30,7 @@
 |---| ------- |
 | 16 | [3sum Closest](https://github.com/freakleesin/Leetcode-Note/tree/main/16-3sum-closest) |
 | 33 | [Search in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
+| 35 | [Search Insert Position](https://github.com/freakleesin/Leetcode-Note/tree/main/35-search-insert-position) |
 | 69 | [Sqrtx](https://github.com/freakleesin/Leetcode-Note/tree/main/69-sqrtx) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
 | 162 | [Find Peak Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
@@ -142,6 +143,7 @@
 | 50 | [powx n](https://github.com/freakleesin/Leetcode-Note/tree/main/50-powx-n) |
 | 221 | [Maximal Square](https://github.com/freakleesin/Leetcode-Note/tree/main/221-maximal-square) |
 | 559 | [Maximum Depth of n-ary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/559-maximum-depth-of-n-ary-tree) |
+| 780 | [Reaching Points](https://github.com/freakleesin/Leetcode-Note/tree/main/780-reaching-points) |
 
 ## String
 | # | Problem |
@@ -193,6 +195,7 @@
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
 | 37 | [Sudoku Solver](https://github.com/freakleesin/Leetcode-Note/tree/main/37-sudoku-solver) |
 | 56 | [Merge Intervals](https://github.com/freakleesin/Leetcode-Note/tree/main/56-merge-intervals) |
+| 58 | [Length of Last Word](https://github.com/freakleesin/Leetcode-Note/tree/main/58-length-of-last-word) |
 | 59 | [Spiral Matrix II](https://github.com/freakleesin/Leetcode-Note/tree/main/59-spiral-matrix-ii) |
 | 73 | [Set Matrix Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/73-set-matrix-zeroes) |
 | 86 | [Partition List](https://github.com/freakleesin/Leetcode-Note/tree/main/86-partition-list) |
