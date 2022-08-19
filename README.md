@@ -194,6 +194,7 @@
 | 21 | [Merge Two Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/21-merge-two-sorted-lists) |
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
 | 37 | [Sudoku Solver](https://github.com/freakleesin/Leetcode-Note/tree/main/37-sudoku-solver) |
+| 48 | [Rotate Image](https://github.com/freakleesin/Leetcode-Note/tree/main/48-rotate-image) |
 | 56 | [Merge Intervals](https://github.com/freakleesin/Leetcode-Note/tree/main/56-merge-intervals) |
 | 58 | [Length of Last Word](https://github.com/freakleesin/Leetcode-Note/tree/main/58-length-of-last-word) |
 | 59 | [Spiral Matrix II](https://github.com/freakleesin/Leetcode-Note/tree/main/59-spiral-matrix-ii) |
