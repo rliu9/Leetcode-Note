@@ -9,8 +9,8 @@ class Solution:
         while prev.next and prev.next.next:
             cur = prev.next
             nxt = prev.next.next
+            prev.next = nxt
             cur.next = nxt.next
             nxt.next = cur
-            prev.next = nxt
             prev = prev.next.next
         return dummy_head.next
