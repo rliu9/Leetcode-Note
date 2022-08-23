@@ -116,6 +116,7 @@
 | 21 | [Merge Two Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/21-merge-two-sorted-lists) |
 | 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
 | 24 | [Swap Nodes in Pairs](https://github.com/freakleesin/Leetcode-Note/tree/main/24-swap-nodes-in-pairs) |
+| 25 | [Reverse Nodes in k Group](https://github.com/freakleesin/Leetcode-Note/tree/main/25-reverse-nodes-in-k-group) |
 
 ## OOD
 | # | Problem |
@@ -203,6 +204,8 @@
 | 88 | [Merge Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/88-merge-sorted-array) |
 | 125 | [Valid Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/125-valid-palindrome) |
 | 128 | [Longest Consecutive Sequence](https://github.com/freakleesin/Leetcode-Note/tree/main/128-longest-consecutive-sequence) |
+| 136 | [Single Number](https://github.com/freakleesin/Leetcode-Note/tree/main/136-single-number) |
+| 137 | [Single Number ii](https://github.com/freakleesin/Leetcode-Note/tree/main/137-single-number-ii) |
 | 163 | [Missing Ranges](https://github.com/freakleesin/Leetcode-Note/tree/main/163-missing-ranges) |
 | 172 | [Factorial Trailing Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/172-factorial-trailing-zeroes) |
 | 202 | [Happy Number](https://github.com/freakleesin/Leetcode-Note/tree/main/202-happy-number) |
