@@ -12,7 +12,7 @@ class Solution:
                 res.append(cur)
                 return
             for i in range(start_index, len(s)):
-                if not ifPalindrome(s, start_index, i):continue
-                backtracking(s, i+1, cur+[s[start_index:i+1]])
+                if ifPalindrome(s, start_index, i):
+                    backtracking(s, i+1, cur+[s[start_index:i+1]])
         backtracking(s, 0, [])
         return res
