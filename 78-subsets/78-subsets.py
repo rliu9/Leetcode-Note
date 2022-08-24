@@ -1,6 +1,5 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        nums.sort()
         def backtracking(idx, cur, res):
             res.append(cur)
             for i in range(idx, len(nums)):
