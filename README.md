@@ -15,6 +15,7 @@
 | 78 | [Subsets](https://github.com/freakleesin/Leetcode-Note/tree/main/78-subsets) |
 | 79 | [Word Search](https://github.com/freakleesin/Leetcode-Note/tree/main/79-word-search) |
 | 90 | [Subsets ii](https://github.com/freakleesin/Leetcode-Note/tree/main/90-subsets-ii) |
+| 131 | [Palindrome Partitioning](https://github.com/freakleesin/Leetcode-Note/tree/main/131-palindrome-partitioning) |
 | 797 | [All Paths From Source to Target](https://github.com/freakleesin/Leetcode-Note/tree/main/797-all-paths-from-source-to-target) |
 
 ## BFS
