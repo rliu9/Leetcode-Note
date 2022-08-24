@@ -1,14 +1,10 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
+        def backtracking(idx, cur, res):
+            res.append(cur)
+            for i in range(idx, len(nums)):
+                backtracking(i+1, cur+[nums[i]], res)
         res = []
-        def backtracking(idx,path):
-            res.append(path[:])
-            for i in range(idx,len(nums)):
-                path.append(nums[i])
-                backtracking(i+1, path)
-                path.pop()
-        backtracking(0,[])
+        backtracking(0, [], res)
         return res
-    
-    # time complexity: O(N*2^N)
-    # space complexity: O(N*2^N)
