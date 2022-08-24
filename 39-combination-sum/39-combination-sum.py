@@ -4,9 +4,13 @@ class Solution:
             if target == 0:res.append(cur[:]);return
             if target < 0:return
             for i in range(idx, len(candidates)):
-                cur.append(candidates[i])
+                """cur.append(candidates[i])
                 backtracking(i, target-candidates[i], cur, res)
-                cur.pop()
+                cur.pop()"""
+                backtracking(i, target-candidates[i], cur+[candidates[i]], res)
         res = []
         backtracking(0, target, [], res)
         return res
+    
+    # O(2^target)
+    # O(max_len_of_combination)
