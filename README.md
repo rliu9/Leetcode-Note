@@ -110,6 +110,7 @@
 |---|---------|
 | 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
 | 295 | [Find Median From Data Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/295-find-median-from-data-stream) |
+| 347 | [Top k Frequent Elements](https://github.com/freakleesin/Leetcode-Note/tree/main/347-top-k-frequent-elements) |
 
 ## Linked List
 | # | Problem |
@@ -147,12 +148,18 @@
 | 559 | [Maximum Depth of n-ary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/559-maximum-depth-of-n-ary-tree) |
 | 780 | [Reaching Points](https://github.com/freakleesin/Leetcode-Note/tree/main/780-reaching-points) |
 
+## Stack
+| # | Problem |
+|---| ------- |
+| 155 | [min Stack](https://github.com/freakleesin/Leetcode-Note/tree/main/155-min-stack) |
+
 ## String
 | # | Problem |
 |---| ------- |
 | 8 | [String to Integer atoi](https://github.com/freakleesin/Leetcode-Note/tree/main/8-string-to-integer-atoi) |
 | 38 | [Count and Say](https://github.com/freakleesin/Leetcode-Note/tree/main/38-count-and-say) |
 | 187 | [Repeated DNA Sequences](https://github.com/freakleesin/Leetcode-Note/tree/main/187-repeated-dna-sequences) |
+| 242 | [Valid Anagram](https://github.com/freakleesin/Leetcode-Note/tree/main/242-valid-anagram) |
 | 243 | [Shortest Word Distance](https://github.com/freakleesin/Leetcode-Note/tree/main/243-shortest-word-distance) |
 | 249 | [Group Shifted Strings](https://github.com/freakleesin/Leetcode-Note/tree/main/249-group-shifted-strings) |
 | 293 | [Flip Game](https://github.com/freakleesin/Leetcode-Note/tree/main/293-flip-game) |
@@ -209,8 +216,10 @@
 | 137 | [Single Number ii](https://github.com/freakleesin/Leetcode-Note/tree/main/137-single-number-ii) |
 | 163 | [Missing Ranges](https://github.com/freakleesin/Leetcode-Note/tree/main/163-missing-ranges) |
 | 172 | [Factorial Trailing Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/172-factorial-trailing-zeroes) |
+| 217 | [Contains Duplicate](https://github.com/freakleesin/Leetcode-Note/tree/main/217-contains-duplicate) |
 | 202 | [Happy Number](https://github.com/freakleesin/Leetcode-Note/tree/main/202-happy-number) |
 | 237 | [Delete Node in a Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/237-delete-node-in-a-linked-list) |
+| 238 | [Product of Array Except Self](https://github.com/freakleesin/Leetcode-Note/tree/main/238-product-of-array-except-self) |
 | 266 | [Palindrome Permutation](https://github.com/freakleesin/Leetcode-Note/tree/main/266-palindrome-permutation) |
 | 268 | [Missing Number](https://github.com/freakleesin/Leetcode-Note/blob/main/268-missing-number/268-missing-number.py) |
 | 289 | [Game of Life](https://github.com/freakleesin/Leetcode-Note/tree/main/289-game-of-life) |
