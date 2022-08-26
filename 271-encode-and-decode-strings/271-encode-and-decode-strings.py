@@ -3,16 +3,21 @@ class Codec:
         """Encodes a list of strings to a single string.
         """
         buffer = []
-        for i, s in enumerate(strs):
-            if i == 0:buffer+=[s]
-            else:buffer += ['.hardtoguest.', s]
+        for s in strs:buffer += [chr(len(s)), s]
         return ''.join(buffer)
         
 
     def decode(self, s: str) -> List[str]:
         """Decodes a single string to a list of strings.
         """
-        return s.split('.hardtoguest.')
+        i, n, res = 0, len(s), []
+        while i < n:
+            len_str = ord(s[i])
+            i += 1
+            if len_str + i > n:break
+            res.append(s[i:i+len_str])
+            i += len_str
+        return res
 
 
 # Your Codec object will be instantiated and called as such:
