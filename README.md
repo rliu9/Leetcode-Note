@@ -162,6 +162,7 @@
 | 242 | [Valid Anagram](https://github.com/freakleesin/Leetcode-Note/tree/main/242-valid-anagram) |
 | 243 | [Shortest Word Distance](https://github.com/freakleesin/Leetcode-Note/tree/main/243-shortest-word-distance) |
 | 249 | [Group Shifted Strings](https://github.com/freakleesin/Leetcode-Note/tree/main/249-group-shifted-strings) |
+| 271 | [Encode and Decode Strings](https://github.com/freakleesin/Leetcode-Note/tree/main/271-encode-and-decode-strings) |
 | 293 | [Flip Game](https://github.com/freakleesin/Leetcode-Note/tree/main/293-flip-game) |
 | 1427 | [Perform String Shifts](https://github.com/freakleesin/Leetcode-Note/tree/main/1427-perform-string-shifts) |
 | 2337 | [Move Pieces to Obtain a String](https://github.com/freakleesin/Leetcode-Note/tree/main/2337-move-pieces-to-obtain-a-string) |
@@ -185,6 +186,7 @@
 | 16 | [3sum Closest](https://github.com/freakleesin/Leetcode-Note/tree/main/16-3sum-closest) |
 | 31 | [Next Permutation](https://github.com/freakleesin/Leetcode-Note/tree/main/31-next-permutation) |
 | 82 | [Remove Duplicates From Sorted List II](https://github.com/freakleesin/Leetcode-Note/tree/main/82-remove-duplicates-from-sorted-list-ii) |
+| 125| [Valid Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/125-valid-palindrome) |
 | 844 | [Backspace String Compare](https://github.com/freakleesin/Leetcode-Note/tree/main/844-backspace-string-compare) |
 | 986 | [Interval List Intersections](https://github.com/freakleesin/Leetcode-Note/tree/main/986-interval-list-intersections) |
 
