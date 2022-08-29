@@ -23,7 +23,9 @@
 |---| ------- |
 | 200 | [Number of Islands](https://github.com/freakleesin/Leetcode-Note/tree/main/200-number-of-islands) |
 | 296 | [Best Meeting Point](https://github.com/freakleesin/Leetcode-Note/tree/main/296-best-meeting-point) |
+| 305 | [Number of islands II](https://github.com/freakleesin/Leetcode-Note/tree/main/305-number-of-islands-ii) |
 | 542 | [01 Matrix](https://github.com/freakleesin/Leetcode-Note/tree/main/542.%2001%20Matrix) |
+| 694 | [Number of Distinct Islands](https://github.com/freakleesin/Leetcode-Note/tree/main/694-number-of-distinct-islands) |
 | 994 | [Rotting Oranges](https://github.com/freakleesin/Leetcode-Note/tree/main/994.%20Rotting%20Oranges) |
 | 1091 | [Shortest Path in Binary Matrix](https://github.com/freakleesin/Leetcode-Note/tree/main/1091-shortest-path-in-binary-matrix) |
 
