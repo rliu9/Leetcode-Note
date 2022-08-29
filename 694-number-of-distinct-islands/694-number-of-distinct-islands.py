@@ -1,20 +1,21 @@
 class Solution:
     def numDistinctIslands(self, grid: List[List[int]]) -> int:
-        def dfs(start, shape, i, j):
-            if i>=0 and j>=0 and i<len(grid) and j<len(grid[0]) and grid[i][j] == 1:
-                shape.append((i-start[0], j-start[1]))
-                grid[i][j] = 0
-                dfs(start,shape,i+1,j)
-                dfs(start,shape,i-1,j)
-                dfs(start,shape,i,j+1)
-                dfs(start,shape,i,j-1)
-            return shape
-
-        unique_islands = set()
-
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == 1:
-                    island = tuple(dfs((i,j), [], i, j))
-                    unique_islands.add(island)
-        return len(unique_islands)
+        rows, cols, islands = len(grid), len(grid[0]), set()
+        def bfs(q, path, start):
+            while q:
+                x, y = q.popleft()
+                ii, jj = start
+                for dx, dy in (0,1), (0,-1), (1,0), (-1,0):
+                    i, j = dx+x, dy+y
+                    if not (0<=i<rows) or not (0<=j<cols) or grid[i][j] != 1:continue
+                    q.append((i,j))
+                    grid[i][j] = 0
+                    path.append((i-ii, j-jj))
+    
+        for r in range(rows):
+            for c in range(cols):
+                path = []
+                if grid[r][c] == 1:
+                    bfs(deque([(r,c)]), path, (r,c))
+                    islands.add(tuple(path))
+        return len(islands)
