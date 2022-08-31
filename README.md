@@ -24,6 +24,7 @@
 | 200 | [Number of Islands](https://github.com/freakleesin/Leetcode-Note/tree/main/200-number-of-islands) |
 | 296 | [Best Meeting Point](https://github.com/freakleesin/Leetcode-Note/tree/main/296-best-meeting-point) |
 | 305 | [Number of islands II](https://github.com/freakleesin/Leetcode-Note/tree/main/305-number-of-islands-ii) |
+| 490 | [The Maze](https://github.com/freakleesin/Leetcode-Note/tree/main/490-the-maze) |
 | 542 | [01 Matrix](https://github.com/freakleesin/Leetcode-Note/tree/main/542.%2001%20Matrix) |
 | 694 | [Number of Distinct Islands](https://github.com/freakleesin/Leetcode-Note/tree/main/694-number-of-distinct-islands) |
 | 994 | [Rotting Oranges](https://github.com/freakleesin/Leetcode-Note/tree/main/994.%20Rotting%20Oranges) |
@@ -84,6 +85,7 @@
 | 63 | [Unique Paths II](https://github.com/freakleesin/Leetcode-Note/tree/main/63-unique-paths-ii) |
 | 64 | [Minimum Path Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/64-minimum-path-sum) |
 | 72 | [Edit Distance](https://github.com/freakleesin/Leetcode-Note/tree/main/72-edit-distance) |
+| 85 | [Maximal Rectangle](https://github.com/freakleesin/Leetcode-Note/tree/main/85-maximal-rectangle) |
 | 91 | [Decode Ways](https://github.com/freakleesin/Leetcode-Note/tree/main/91-decode-ways) |
 | 139 | [Word Break](https://github.com/freakleesin/Leetcode-Note/tree/main/139-word-break) |
 | 152 | [Maximum Product Subarray](https://github.com/freakleesin/Leetcode-Note/tree/main/152-maximum-product-subarray) |
@@ -234,6 +236,7 @@
 | 409 | [Longest Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/409-longest-palindrome) |
 | 448 | [Find All Numbers Disappeared in an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/448-find-all-numbers-disappeared-in-an-array) |
 | 454 | [4Sum II](https://github.com/freakleesin/Leetcode-Note/tree/main/454-4sum-ii) |
+| 1010 | [Pairs of Songs with Total Durations Divisible by 60](https://github.com/freakleesin/Leetcode-Note/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | 2221 | [Find Triangular Sum of an Array](https://github.com/freakleesin/Leetcode-Note/blob/main/2221-find-triangular-sum-of-an-array/2221-find-triangular-sum-of-an-array.py) |
 | 2310 | [Sum of Numbers With Units Digit K](https://github.com/freakleesin/Leetcode-Note/tree/main/2310-sum-of-numbers-with-units-digit-k) |
 | 2341 | [Maximum Number of Pairs in Array](https://github.com/freakleesin/Leetcode-Note/tree/main/2341-maximum-number-of-pairs-in-array) |
