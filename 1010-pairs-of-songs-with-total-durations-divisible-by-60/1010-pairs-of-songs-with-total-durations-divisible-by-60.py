@@ -6,3 +6,6 @@ class Solution:
             res += d[(60-t)%60]
             d[t % 60] += 1
         return res
+    
+    # O(n)
+    # O(1)
