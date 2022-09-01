@@ -84,6 +84,7 @@
 | 62 | [Unique Paths](https://github.com/freakleesin/Leetcode-Note/tree/main/62-unique-paths) |
 | 63 | [Unique Paths II](https://github.com/freakleesin/Leetcode-Note/tree/main/63-unique-paths-ii) |
 | 64 | [Minimum Path Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/64-minimum-path-sum) |
+| 70 | [Climbing Stairs](https://github.com/freakleesin/Leetcode-Note/tree/main/70-climbing-stairs) |
 | 72 | [Edit Distance](https://github.com/freakleesin/Leetcode-Note/tree/main/72-edit-distance) |
 | 85 | [Maximal Rectangle](https://github.com/freakleesin/Leetcode-Note/tree/main/85-maximal-rectangle) |
 | 91 | [Decode Ways](https://github.com/freakleesin/Leetcode-Note/tree/main/91-decode-ways) |
