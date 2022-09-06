@@ -49,10 +49,11 @@
 |---| ------- |
 | 201| [Bitwise and of Numbers Range](https://github.com/freakleesin/Leetcode-Note/tree/main/201-bitwise-and-of-numbers-range) |
 
-## Cycle | FastSlow
+## Cycle | FastSlow (Two Points in Linked List)
 | # | Problem |
 |---| ------- |
 | 19 | [Remove-Nth-Node-From-End-of-List](https://github.com/freakleesin/Leetcode-Note/tree/main/19-remove-nth-node-from-end-of-list) |
+| 61 | [Rotate List](https://github.com/freakleesin/Leetcode-Note/tree/main/61-rotate-list) |
 | 141 | [Linked List Cycle](https://github.com/freakleesin/Leetcode-Note/tree/main/141.%20Linked%20List%20Cycle) |
 | 142 | [Linked List Cycle II](https://github.com/freakleesin/Leetcode-Note/tree/main/142.%20Linked%20List%20Cycle%20II) |
 | 143 | [Reorder List](https://github.com/freakleesin/Leetcode-Note/tree/main/143-reorder-list) |
@@ -140,11 +141,12 @@
 |---| ------- |
 | 1588 | [Sum of All Odd Length Subarrays](https://github.com/freakleesin/Leetcode-Note/tree/main/1588-sum-of-all-odd-length-subarrays) |
 
-## Regex
+## Regular Expression
 | # | Problem |
 |---|---------|
 | 8 | [String to Integer atoi](https://github.com/freakleesin/Leetcode-Note/tree/main/8-string-to-integer-atoi) |
 | 10 | [Regular Expression Matching](https://github.com/freakleesin/Leetcode-Note/tree/main/10-regular-expression-matching) |
+| 722 | [Remove Comments](https://github.com/freakleesin/Leetcode-Note/tree/main/722-remove-comments) |
 
 ## Recursion
 | # | Problem |
@@ -191,10 +193,12 @@
 | 15 | [3sum](https://github.com/freakleesin/Leetcode-Note/tree/main/15-3sum) |
 | 16 | [3sum Closest](https://github.com/freakleesin/Leetcode-Note/tree/main/16-3sum-closest) |
 | 31 | [Next Permutation](https://github.com/freakleesin/Leetcode-Note/tree/main/31-next-permutation) |
+| 41 | [First Missing Positive](https://github.com/freakleesin/Leetcode-Note/tree/main/41-first-missing-positive) |
 | 42 | [Trapping Rain Water](https://github.com/freakleesin/Leetcode-Note/tree/main/42-trapping-rain-water) |
 | 82 | [Remove Duplicates From Sorted List II](https://github.com/freakleesin/Leetcode-Note/tree/main/82-remove-duplicates-from-sorted-list-ii) |
 | 125| [Valid Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/125-valid-palindrome) |
 | 167 | [Two Sum II Input Array is Sorted](https://github.com/freakleesin/Leetcode-Note/tree/main/167-two-sum-ii-input-array-is-sorted)
+| 345 | [Reverse Vowels of a String](https://github.com/freakleesin/Leetcode-Note/tree/main/345-reverse-vowels-of-a-string) |
 | 844 | [Backspace String Compare](https://github.com/freakleesin/Leetcode-Note/tree/main/844-backspace-string-compare) |
 | 986 | [Interval List Intersections](https://github.com/freakleesin/Leetcode-Note/tree/main/986-interval-list-intersections) |
 
