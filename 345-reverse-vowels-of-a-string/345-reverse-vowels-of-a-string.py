@@ -7,8 +7,7 @@ class Solution:
                 l += 1
             while l<r and s[r] not in 'aeiouAEIOU':
                 r -= 1
-            if s[l] in 'aeiouAEIOU' and s[r] in 'aeiouAEIOU':
-                s[l], s[r] = s[r], s[l]
+            s[l], s[r] = s[r], s[l]
             l += 1
             r -= 1
         return ''.join(s)
