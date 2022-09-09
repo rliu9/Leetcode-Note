@@ -1,14 +1,12 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        l = 0
-        freq = collections.defaultdict(int)
-        maxlen = 0
+        count = collections.defaultdict(int)
+        res, l, maxf = 0, 0, 0
         for r in range(len(s)):
-            freq[s[r]] = freq[s[r]] + 1
-            cur_len = r - l + 1
-            if cur_len - max(freq.values()) <= k:
-                maxlen = max(maxlen, cur_len)
-            else:
-                freq[s[l]] -= 1
+            count[s[r]] = 1 + count[s[r]]
+            maxf = max(maxf, count[s[r]])
+            if (r - l + 1) - maxf > k:
+                count[s[l]] -= 1
                 l += 1
-        return maxlen
+            res = max(res, r - l + 1)
+        return res
