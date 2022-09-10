@@ -183,7 +183,9 @@
 | 209 | [Minimum Size Subarray Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/209-minimum-size-subarray-sum) |
 | 219 | [Contains Duplicate II](https://github.com/freakleesin/Leetcode-Note/tree/main/219-contains-duplicate-ii) |
 | 239 | [Sliding Window Maximum](https://github.com/freakleesin/Leetcode-Note/blob/main/239-sliding-window-maximum/239-sliding-window-maximum.py) |
+| 424 | [Longest Repeating Character Replacement](https://github.com/freakleesin/Leetcode-Note/tree/main/424-longest-repeating-character-replacement) |
 | 438 | [Find All Anagrams in a String](https://github.com/freakleesin/Leetcode-Note/tree/main/438-find-all-anagrams-in-a-string) |
+| 567 | [Permutation in String](https://github.com/freakleesin/Leetcode-Note/tree/main/567-permutation-in-string) |
 | 713 | [Subarray Product Less Than K](https://github.com/freakleesin/Leetcode-Note/tree/main/713-subarray-product-less-than-k) |
 | 1151 | [Minimum Swaps to Group all 1s Together](https://github.com/freakleesin/Leetcode-Note/tree/main/1151-minimum-swaps-to-group-all-1s-together) |
 
@@ -235,6 +237,7 @@
 | 202 | [Happy Number](https://github.com/freakleesin/Leetcode-Note/tree/main/202-happy-number) |
 | 237 | [Delete Node in a Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/237-delete-node-in-a-linked-list) |
 | 238 | [Product of Array Except Self](https://github.com/freakleesin/Leetcode-Note/tree/main/238-product-of-array-except-self) |
+| 252 | [Meeting Rooms](https://github.com/freakleesin/Leetcode-Note/tree/main/252-meeting-rooms) |
 | 266 | [Palindrome Permutation](https://github.com/freakleesin/Leetcode-Note/tree/main/266-palindrome-permutation) |
 | 268 | [Missing Number](https://github.com/freakleesin/Leetcode-Note/blob/main/268-missing-number/268-missing-number.py) |
 | 289 | [Game of Life](https://github.com/freakleesin/Leetcode-Note/tree/main/289-game-of-life) |
