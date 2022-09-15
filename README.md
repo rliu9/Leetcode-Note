@@ -111,6 +111,7 @@
 | 45 | [Jump Game II](https://github.com/freakleesin/Leetcode-Note/tree/main/45-jump-game-ii) |
 | 55 | [Jump Game](https://github.com/freakleesin/Leetcode-Note/tree/main/55-jump-game) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://github.com/freakleesin/Leetcode-Note/tree/main/452-minimum-number-of-arrows-to-burst-balloons) |
+| 2405 | [Optimal Partition of String](https://github.com/freakleesin/Leetcode-Note/tree/main/2405-optimal-partition-of-string) |
 |2332| [The Latest Time to Catch a Bus](https://github.com/freakleesin/Leetcode-Note/tree/main/2332-the-latest-time-to-catch-a-bus) |
 
 ## Heap
@@ -119,6 +120,8 @@
 | 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
 | 295 | [Find Median From Data Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/295-find-median-from-data-stream) |
 | 347 | [Top k Frequent Elements](https://github.com/freakleesin/Leetcode-Note/tree/main/347-top-k-frequent-elements) |
+| 703 | [kth Largest Element in a Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/703-kth-largest-element-in-a-stream) |
+| 2406 | [Divide Intervals into Minimum Number of Groups](https://github.com/freakleesin/Leetcode-Note/tree/main/2406-divide-intervals-into-minimum-number-of-groups) |
 
 ## Linked List
 | # | Problem |
@@ -250,3 +253,4 @@
 | 2310 | [Sum of Numbers With Units Digit K](https://github.com/freakleesin/Leetcode-Note/tree/main/2310-sum-of-numbers-with-units-digit-k) |
 | 2341 | [Maximum Number of Pairs in Array](https://github.com/freakleesin/Leetcode-Note/tree/main/2341-maximum-number-of-pairs-in-array) |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://github.com/freakleesin/Leetcode-Note/blob/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) |
+| 2404 | [Most Frequent Even Element] (https://github.com/freakleesin/Leetcode-Note/tree/main/2404-most-frequent-even-element) |
