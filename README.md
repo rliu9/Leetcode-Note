@@ -253,4 +253,4 @@
 | 2310 | [Sum of Numbers With Units Digit K](https://github.com/freakleesin/Leetcode-Note/tree/main/2310-sum-of-numbers-with-units-digit-k) |
 | 2341 | [Maximum Number of Pairs in Array](https://github.com/freakleesin/Leetcode-Note/tree/main/2341-maximum-number-of-pairs-in-array) |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://github.com/freakleesin/Leetcode-Note/blob/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) |
-| 2404 | [Most Frequent Even Element] (https://github.com/freakleesin/Leetcode-Note/tree/main/2404-most-frequent-even-element) |
+| 2404 | [Most Frequent Even Element](https://github.com/freakleesin/Leetcode-Note/tree/main/2404-most-frequent-even-element) |
