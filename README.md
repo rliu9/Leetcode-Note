@@ -11,6 +11,7 @@
 | 40 | [Combination Sum ii](https://github.com/freakleesin/Leetcode-Note/tree/main/40-combination-sum-ii) |
 | 46 | [Permutations](https://github.com/freakleesin/Leetcode-Note/tree/main/46-permutations) |
 | 47 | [Permutations ii](https://github.com/freakleesin/Leetcode-Note/tree/main/47-permutations-ii) |
+| 60 | [Permutation Sequence](https://github.com/freakleesin/Leetcode-Note/tree/main/60-permutation-sequence) |
 | 77 | [Combinations](https://github.com/freakleesin/Leetcode-Note/tree/main/77.%20Combinations) |
 | 78 | [Subsets](https://github.com/freakleesin/Leetcode-Note/tree/main/78-subsets) |
 | 79 | [Word Search](https://github.com/freakleesin/Leetcode-Note/tree/main/79-word-search) |
@@ -37,11 +38,15 @@
 | 33 | [Search in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
 | 35 | [Search Insert Position](https://github.com/freakleesin/Leetcode-Note/tree/main/35-search-insert-position) |
 | 69 | [Sqrtx](https://github.com/freakleesin/Leetcode-Note/tree/main/69-sqrtx) |
-| 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
+| 74 | [Search a 2d Mtrix](https://github.com/freakleesin/Leetcode-Note/tree/main/74-search-a-2d-matrix) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/153-find-minimum-in-rotated-sorted-array) |
 | 162 | [Find Peak Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
 | 367 | [Valid Perfect Square](https://github.com/freakleesin/Leetcode-Note/tree/main/367-valid-perfect-square) |
+| 704 | [Binary Search](https://github.com/freakleesin/Leetcode-Note/tree/main/704-binary-search) | 
 | 719 | [Find k th Smallest Pair Distance](https://github.com/freakleesin/Leetcode-Note/blob/main/719-find-k-th-smallest-pair-distance/719-find-k-th-smallest-pair-distance.py) |
 | 852 | [Peak Index in a Mountain Array](https://github.com/freakleesin/Leetcode-Note/tree/main/852-peak-index-in-a-mountain-array) |
+| 875 | [Koko Eating Bananas](https://github.com/freakleesin/Leetcode-Note/tree/main/875-koko-eating-bananas) |
+| 981 | [Time Based Key Value Store](https://github.com/freakleesin/Leetcode-Note/tree/main/981-time-based-key-value-store) |
 | 2300 | [Successful Pairs of Spells and Potions](https://github.com/freakleesin/Leetcode-Note/tree/main/2300-successful-pairs-of-spells-and-potions) |
 
 ## Bit Manipulation
@@ -227,6 +232,7 @@
 | 56 | [Merge Intervals](https://github.com/freakleesin/Leetcode-Note/tree/main/56-merge-intervals) |
 | 58 | [Length of Last Word](https://github.com/freakleesin/Leetcode-Note/tree/main/58-length-of-last-word) |
 | 59 | [Spiral Matrix II](https://github.com/freakleesin/Leetcode-Note/tree/main/59-spiral-matrix-ii) |
+| 68 | [Text Justification](https://github.com/freakleesin/Leetcode-Note/tree/main/68-text-justification)
 | 73 | [Set Matrix Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/73-set-matrix-zeroes) |
 | 86 | [Partition List](https://github.com/freakleesin/Leetcode-Note/tree/main/86-partition-list) |
 | 88 | [Merge Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/88-merge-sorted-array) |
@@ -248,9 +254,12 @@
 | 409 | [Longest Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/409-longest-palindrome) |
 | 448 | [Find All Numbers Disappeared in an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/448-find-all-numbers-disappeared-in-an-array) |
 | 454 | [4Sum II](https://github.com/freakleesin/Leetcode-Note/tree/main/454-4sum-ii) |
+| 500 | [Keyboard Row](https://github.com/freakleesin/Leetcode-Note/tree/main/500-keyboard-row) |
+| 551 | [Student Attendance Record I](https://github.com/freakleesin/Leetcode-Note/tree/main/551-student-attendance-record-i) |
 | 1010 | [Pairs of Songs with Total Durations Divisible by 60](https://github.com/freakleesin/Leetcode-Note/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | 2221 | [Find Triangular Sum of an Array](https://github.com/freakleesin/Leetcode-Note/blob/main/2221-find-triangular-sum-of-an-array/2221-find-triangular-sum-of-an-array.py) |
 | 2310 | [Sum of Numbers With Units Digit K](https://github.com/freakleesin/Leetcode-Note/tree/main/2310-sum-of-numbers-with-units-digit-k) |
 | 2341 | [Maximum Number of Pairs in Array](https://github.com/freakleesin/Leetcode-Note/tree/main/2341-maximum-number-of-pairs-in-array) |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://github.com/freakleesin/Leetcode-Note/blob/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) |
 | 2404 | [Most Frequent Even Element](https://github.com/freakleesin/Leetcode-Note/tree/main/2404-most-frequent-even-element) |
+| 2419 | [Longest Subarray with Maximum Bitwise AND](https://github.com/freakleesin/Leetcode-Note/tree/main/2419-longest-subarray-with-maximum-bitwise-and) |
