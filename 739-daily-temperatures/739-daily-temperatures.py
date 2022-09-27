@@ -9,3 +9,6 @@ class Solution:
                 res[cur] = i - cur
             stack.append(i)
         return res
+    
+    # O(n)
+    # O(n)
