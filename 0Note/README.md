@@ -25,7 +25,9 @@ Sum of [1, 2, ..., n] : ``` (n * (n+1)) // 2 ```
 
 Dictionary d's key with highest value: ``` max(d, key=d.get) ```
 
-Sort Dictionary by values: ``` sorted(dictionary, key=lambda x:dictionary[x]) ```
+Sort Dictionary by values: ``` dict(sorted(dictionary.items(), key=lambda x:x[1])) ```
+
+**Eval()**:Performs op passed as argument ``` eval('1 * 2') = 2 ``` ``` x,op,y = '2','+','3'; eval(f'{x} {op} {y}') = 5 ``` 
 
 # random
 
