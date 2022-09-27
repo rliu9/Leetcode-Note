@@ -1,18 +1,14 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res = []
-        def backtracking(l, r, s):
-            if len(s) == n*2:
-                res.append(''.join(s))
-                return
+        def backtracking(l, r, cur):
+            if len(cur) == n*2:
+                res.append(''.join(cur))
             if l < n:
-                s.append('(')
-                backtracking(l+1, r, s)
-                s.pop()
+                backtracking(l+1, r, cur+['('])
             if r < l:
-                s.append(')')
-                backtracking(l, r+1, s)
-                s.pop()
+                backtracking(l, r+1, cur+[')'])
         backtracking(0, 0, [])
         return res
+        
             
