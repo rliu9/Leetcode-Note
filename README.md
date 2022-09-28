@@ -168,7 +168,9 @@
 ## Stack
 | # | Problem |
 |---| ------- |
+| 150 | [Evaluate Reverse Polish Notation](https://github.com/freakleesin/Leetcode-Note/tree/main/150-evaluate-reverse-polish-notation) |
 | 155 | [min Stack](https://github.com/freakleesin/Leetcode-Note/tree/main/155-min-stack) |
+| 739 | [Daily Temperatures](https://github.com/freakleesin/Leetcode-Note/tree/main/739-daily-temperatures) |
 
 ## String
 | # | Problem |
