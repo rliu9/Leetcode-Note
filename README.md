@@ -168,6 +168,7 @@
 ## Stack
 | # | Problem |
 |---| ------- |
+| 20 | [Valid Parentheses](https://github.com/freakleesin/Leetcode-Note/tree/main/20-valid-parentheses) |
 | 150 | [Evaluate Reverse Polish Notation](https://github.com/freakleesin/Leetcode-Note/tree/main/150-evaluate-reverse-polish-notation) |
 | 155 | [min Stack](https://github.com/freakleesin/Leetcode-Note/tree/main/155-min-stack) |
 | 739 | [Daily Temperatures](https://github.com/freakleesin/Leetcode-Note/tree/main/739-daily-temperatures) |
@@ -226,7 +227,6 @@
 | 14 | [Longest Common Prefix](https://github.com/freakleesin/Leetcode-Note/tree/main/14-longest-common-prefix) |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/freakleesin/Leetcode-Note/tree/main/17-letter-combinations-of-a-phone-number) |
 | 18 | [4sum](https://github.com/freakleesin/Leetcode-Note/tree/main/18-4sum) |
-| 20 | [Valid Parentheses](https://github.com/freakleesin/Leetcode-Note/tree/main/20-valid-parentheses) |
 | 21 | [Merge Two Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/21-merge-two-sorted-lists) |
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
 | 37 | [Sudoku Solver](https://github.com/freakleesin/Leetcode-Note/tree/main/37-sudoku-solver) |
