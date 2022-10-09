@@ -8,24 +8,23 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        def reverse_linkedlist(head):
-            pre,cur = None,head
+        def reverse(head):
+            prev, cur = None, head
             while cur:
-                temp = cur.next
-                cur.next = pre
-                pre = cur
-                cur = temp
-            return pre
+                nxt = cur.next
+                cur.next = prev
+                prev = cur
+                cur = nxt
+            return prev
+        
         slow = fast = head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-        fast = reverse_linkedlist(slow)
+        fast = reverse(slow)
         slow = head
         while fast.next:
-            temp = slow.next
+            nxt = slow.next
             slow.next = fast
-            slow = fast
-            fast = temp
-            
-            
+            slow = slow.next
+            fast = nxt
