@@ -52,7 +52,9 @@
 ## Bit Manipulation
 | # | Problem |
 |---| ------- |
-| 201| [Bitwise and of Numbers Range](https://github.com/freakleesin/Leetcode-Note/tree/main/201-bitwise-and-of-numbers-range) |
+| 136 | [Single Number](https://github.com/freakleesin/Leetcode-Note/tree/main/136-single-number) |
+| 191 | [Number of 1 Bits](https://github.com/freakleesin/Leetcode-Note/tree/main/191-number-of-1-bits) |
+| 201 | [Bitwise and of Numbers Range](https://github.com/freakleesin/Leetcode-Note/tree/main/201-bitwise-and-of-numbers-range) |
 
 ## Cycle | FastSlow (Two Points in Linked List)
 | # | Problem |
@@ -117,15 +119,20 @@
 | 55 | [Jump Game](https://github.com/freakleesin/Leetcode-Note/tree/main/55-jump-game) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://github.com/freakleesin/Leetcode-Note/tree/main/452-minimum-number-of-arrows-to-burst-balloons) |
 | 2405 | [Optimal Partition of String](https://github.com/freakleesin/Leetcode-Note/tree/main/2405-optimal-partition-of-string) |
-|2332| [The Latest Time to Catch a Bus](https://github.com/freakleesin/Leetcode-Note/tree/main/2332-the-latest-time-to-catch-a-bus) |
+| 2332 | [The Latest Time to Catch a Bus](https://github.com/freakleesin/Leetcode-Note/tree/main/2332-the-latest-time-to-catch-a-bus) |
+| 2429 | [Minimize XOR](https://github.com/freakleesin/Leetcode-Note/tree/main/2429-minimize-xor) |
 
 ## Heap
 | # | Problem |
 |---|---------|
 | 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
+| 215 | [kth Largest Element in an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/215-kth-largest-element-in-an-array) |
 | 295 | [Find Median From Data Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/295-find-median-from-data-stream) |
 | 347 | [Top k Frequent Elements](https://github.com/freakleesin/Leetcode-Note/tree/main/347-top-k-frequent-elements) |
+| 621 | [Task Scheduler](https://github.com/freakleesin/Leetcode-Note/tree/main/621-task-scheduler) |
 | 703 | [kth Largest Element in a Stream](https://github.com/freakleesin/Leetcode-Note/tree/main/703-kth-largest-element-in-a-stream) |
+| 973 | [k Closest Points to Origin](https://github.com/freakleesin/Leetcode-Note/tree/main/973-k-closest-points-to-origin) |
+| 1046 | [Last Stone Weight](https://github.com/freakleesin/Leetcode-Note/tree/main/1046-last-stone-weight) |
 | 2406 | [Divide Intervals into Minimum Number of Groups](https://github.com/freakleesin/Leetcode-Note/tree/main/2406-divide-intervals-into-minimum-number-of-groups) |
 
 ## Linked List
@@ -135,6 +142,9 @@
 | 23 | [Merge k Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/23-merge-k-sorted-lists) |
 | 24 | [Swap Nodes in Pairs](https://github.com/freakleesin/Leetcode-Note/tree/main/24-swap-nodes-in-pairs) |
 | 25 | [Reverse Nodes in k Group](https://github.com/freakleesin/Leetcode-Note/tree/main/25-reverse-nodes-in-k-group) |
+| 143 | [Reorder List](https://github.com/freakleesin/Leetcode-Note/tree/main/143-reorder-list) |
+| 206 | [Reverse Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/206-reverse-linked-list) |
+
 
 ## OOD
 | # | Problem |
@@ -163,7 +173,9 @@
 | 50 | [powx n](https://github.com/freakleesin/Leetcode-Note/tree/main/50-powx-n) |
 | 221 | [Maximal Square](https://github.com/freakleesin/Leetcode-Note/tree/main/221-maximal-square) |
 | 559 | [Maximum Depth of n-ary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/559-maximum-depth-of-n-ary-tree) |
+| 700 | [Search in a Binary Search Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/700-search-in-a-binary-search-tree) |
 | 780 | [Reaching Points](https://github.com/freakleesin/Leetcode-Note/tree/main/780-reaching-points) |
+| 1444 | [Number of Ways of Cutting a Pizza](https://github.com/freakleesin/Leetcode-Note/tree/main/1444-number-of-ways-of-cutting-a-pizza) |
 
 ## Stack
 | # | Problem |
@@ -240,7 +252,6 @@
 | 88 | [Merge Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/88-merge-sorted-array) |
 | 125 | [Valid Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/125-valid-palindrome) |
 | 128 | [Longest Consecutive Sequence](https://github.com/freakleesin/Leetcode-Note/tree/main/128-longest-consecutive-sequence) |
-| 136 | [Single Number](https://github.com/freakleesin/Leetcode-Note/tree/main/136-single-number) |
 | 137 | [Single Number ii](https://github.com/freakleesin/Leetcode-Note/tree/main/137-single-number-ii) |
 | 163 | [Missing Ranges](https://github.com/freakleesin/Leetcode-Note/tree/main/163-missing-ranges) |
 | 172 | [Factorial Trailing Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/172-factorial-trailing-zeroes) |
@@ -254,10 +265,12 @@
 | 289 | [Game of Life](https://github.com/freakleesin/Leetcode-Note/tree/main/289-game-of-life) |
 | 199 | [Bulls and Cows]() |
 | 409 | [Longest Palindrome](https://github.com/freakleesin/Leetcode-Note/tree/main/409-longest-palindrome) |
+| 424 | [Longest Repeating Character Replacement](https://github.com/freakleesin/Leetcode-Note/tree/main/424-longest-repeating-character-replacement) |
 | 448 | [Find All Numbers Disappeared in an Array](https://github.com/freakleesin/Leetcode-Note/tree/main/448-find-all-numbers-disappeared-in-an-array) |
 | 454 | [4Sum II](https://github.com/freakleesin/Leetcode-Note/tree/main/454-4sum-ii) |
 | 500 | [Keyboard Row](https://github.com/freakleesin/Leetcode-Note/tree/main/500-keyboard-row) |
 | 551 | [Student Attendance Record I](https://github.com/freakleesin/Leetcode-Note/tree/main/551-student-attendance-record-i) |
+| 567 | [Permutation in String](https://github.com/freakleesin/Leetcode-Note/tree/main/567-permutation-in-string) |
 | 1010 | [Pairs of Songs with Total Durations Divisible by 60](https://github.com/freakleesin/Leetcode-Note/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | 2221 | [Find Triangular Sum of an Array](https://github.com/freakleesin/Leetcode-Note/blob/main/2221-find-triangular-sum-of-an-array/2221-find-triangular-sum-of-an-array.py) |
 | 2310 | [Sum of Numbers With Units Digit K](https://github.com/freakleesin/Leetcode-Note/tree/main/2310-sum-of-numbers-with-units-digit-k) |
