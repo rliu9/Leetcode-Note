@@ -1,5 +1,11 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        d = defaultdict(int)
-        for i in nums:d[i] += 1
-        return min(d, key=d.get)
+        # a xor 0 = a
+        # a xor a = 0
+        a = 0
+        for n in nums:
+            a ^= n
+        return a
+    
+    # O(n)
+    # O(1)
