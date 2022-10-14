@@ -1,13 +1,10 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        cur_jump_max = next_jump_max = ret = 0
-        for i in range(len(nums)-1):
-            next_jump_max = max(next_jump_max, nums[i]+i)
-            if i == cur_jump_max:
-                cur_jump_max = next_jump_max
-                ret += 1
-        return ret
-
-    
-    # O(n)
-    # O(n)
+        next_jump = cur = res = 0
+        for i,n in enumerate(nums):
+            if i == len(nums)-1:break
+            next_jump = max(next_jump, i+n)
+            if cur == i:
+                cur = next_jump
+                res += 1
+        return res
