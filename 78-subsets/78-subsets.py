@@ -1,9 +1,14 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        def backtracking(idx, cur, res):
-            res.append(cur)
-            for i in range(idx, len(nums)):
-                backtracking(i+1, cur+[nums[i]], res)
         res = []
-        backtracking(0, [], res)
+        def backtracking(idx, cur):
+            res.append(cur[:])
+            for i in range(idx, len(nums)):
+                cur.append(nums[i])
+                backtracking(i+1, cur)
+                cur.pop()
+        backtracking(0, [])
         return res
+    
+    # O(n 2^n)
+    # O(n)
