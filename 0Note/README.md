@@ -29,6 +29,8 @@ Sort Dictionary by values: ``` dict(sorted(dictionary.items(), key=lambda x:x[1]
 
 **Eval()**:Performs op passed as argument ``` eval('1 * 2') = 2 ``` ``` x,op,y = '2','+','3'; eval(f'{x} {op} {y}') = 5 ``` 
 
+``` "{0:b}".format() ```
+
 # random
 
 ```
