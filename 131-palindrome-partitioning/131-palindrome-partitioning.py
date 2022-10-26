@@ -7,12 +7,13 @@ class Solution:
             return True
         
         res = []
-        def backtracking(s, start_index, cur):
-            if start_index >= len(s):
+        def backtracking(s, idx, cur):
+            if idx >= len(s):
                 res.append(cur)
                 return
-            for i in range(start_index, len(s)):
-                if ifPalindrome(s, start_index, i):
-                    backtracking(s, i+1, cur+[s[start_index:i+1]])
+            for i in range(idx, len(s)):
+                if ifPalindrome(s, idx, i):
+                    backtracking(s, i+1, cur+[s[idx:i+1]])
         backtracking(s, 0, [])
         return res
+                    
