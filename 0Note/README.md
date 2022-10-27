@@ -21,15 +21,15 @@ format.(2, '.5f') #2.00000
 ```
 
 # Tips
-Sum of [1, 2, ..., n] : ``` (n * (n+1)) // 2 ```
+``` (n * (n+1)) // 2 ``` --- **Sum of [1, 2, ..., n]**
 
-Dictionary d's key with highest value: ``` max(d, key=d.get) ```
+``` max(d, key=d.get) ``` --- **Dictionary d's key with highest value**
 
-Sort Dictionary by values: ``` dict(sorted(dictionary.items(), key=lambda x:x[1])) ```
+``` dict(sorted(dictionary.items(), key=lambda x:x[1])) --- ``` **Sort Dictionary by values**
 
-**Eval()**:Performs op passed as argument ``` eval('1 * 2') = 2 ``` ``` x,op,y = '2','+','3'; eval(f'{x} {op} {y}') = 5 ``` 
+``` eval('1 * 2') = 2 ``` ``` x,op,y = '2','+','3'; eval(f'{x} {op} {y}') = 5 --- ``` **Eval()**:Performs op passed as argument 
 
-``` "{0:b}".format() == bin()[2:] ```
+``` "{0:b}".format(int) == bin(int)[2:] ``` **Binary** ``` '{0:016b}'.format(int) ``` **16-digit binary string**
 
 # random
 
