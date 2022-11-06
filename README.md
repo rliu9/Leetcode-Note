@@ -106,6 +106,7 @@
 | 322 | [Coin Change](https://github.com/freakleesin/Leetcode-Note/tree/main/322-coin-change) |
 | 343 | [Integer Break](https://github.com/freakleesin/Leetcode-Note/tree/main/343-integer-break) |
 | 413 | [Arithmetic Slices](https://github.com/freakleesin/Leetcode-Note/tree/main/413-arithmetic-slices) |
+| 416 | [Partition Equal Subset Sum](https://github.com/freakleesin/Leetcode-Note/tree/main/416-partition-equal-subset-sum) |
 | 518 | [Coin Change 2](https://github.com/freakleesin/Leetcode-Note/tree/main/518-coin-change-2) |
 | 583 | [Delete Operation for Two Strings](https://github.com/freakleesin/Leetcode-Note/tree/main/583-delete-operation-for-two-strings) |
 | 673 | [Number of Longest Increasing Subsequence](https://github.com/freakleesin/Leetcode-Note/tree/main/673-number-of-longest-increasing-subsequence) |
@@ -116,7 +117,9 @@
 | # | Problem |
 |---| ------- |
 | 45 | [Jump Game II](https://github.com/freakleesin/Leetcode-Note/tree/main/45-jump-game-ii) |
+| 53 | [Maximum Subarray](https://github.com/freakleesin/Leetcode-Note/tree/main/53-maximum-subarray) |
 | 55 | [Jump Game](https://github.com/freakleesin/Leetcode-Note/tree/main/55-jump-game) |
+| 134 | [Gas Station](https://github.com/freakleesin/Leetcode-Note/tree/main/134-gas-station) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://github.com/freakleesin/Leetcode-Note/tree/main/452-minimum-number-of-arrows-to-burst-balloons) |
 | 2405 | [Optimal Partition of String](https://github.com/freakleesin/Leetcode-Note/tree/main/2405-optimal-partition-of-string) |
 | 2332 | [The Latest Time to Catch a Bus](https://github.com/freakleesin/Leetcode-Note/tree/main/2332-the-latest-time-to-catch-a-bus) |
@@ -145,7 +148,6 @@
 | 143 | [Reorder List](https://github.com/freakleesin/Leetcode-Note/tree/main/143-reorder-list) |
 | 206 | [Reverse Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/206-reverse-linked-list) |
 
-
 ## OOD
 | # | Problem |
 |---| ------- |
@@ -171,11 +173,22 @@
 | # | Problem |
 |---| ------- |
 | 50 | [powx n](https://github.com/freakleesin/Leetcode-Note/tree/main/50-powx-n) |
+| 100 | [Same Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/100-same-tree) |
+| 104 | [Maximum Depth of Binary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/104-maximum-depth-of-binary-tree) |
+| 110 | [Balanced Binary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/110-balanced-binary-tree) |
 | 221 | [Maximal Square](https://github.com/freakleesin/Leetcode-Note/tree/main/221-maximal-square) |
+| 226 | [Invert Binary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/226-invert-binary-tree) |
+| 543 | [Diameter of Binary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/543-diameter-of-binary-tree) |
 | 559 | [Maximum Depth of n-ary Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/559-maximum-depth-of-n-ary-tree) |
+| 572 | [Subtree of Another Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/572-subtree-of-another-tree) |
 | 700 | [Search in a Binary Search Tree](https://github.com/freakleesin/Leetcode-Note/tree/main/700-search-in-a-binary-search-tree) |
 | 780 | [Reaching Points](https://github.com/freakleesin/Leetcode-Note/tree/main/780-reaching-points) |
 | 1444 | [Number of Ways of Cutting a Pizza](https://github.com/freakleesin/Leetcode-Note/tree/main/1444-number-of-ways-of-cutting-a-pizza) |
+
+## SQL
+| # | Problem |
+|---| ------- |
+| 182 | [Duplicate Emails](https://github.com/freakleesin/Leetcode-Note/tree/main/182-duplicate-emails) |
 
 ## Stack
 | # | Problem |
@@ -196,6 +209,7 @@
 | 249 | [Group Shifted Strings](https://github.com/freakleesin/Leetcode-Note/tree/main/249-group-shifted-strings) |
 | 271 | [Encode and Decode Strings](https://github.com/freakleesin/Leetcode-Note/tree/main/271-encode-and-decode-strings) |
 | 293 | [Flip Game](https://github.com/freakleesin/Leetcode-Note/tree/main/293-flip-game) |
+| 344 | [Reverse String](https://github.com/freakleesin/Leetcode-Note/tree/main/344-reverse-string) |
 | 1427 | [Perform String Shifts](https://github.com/freakleesin/Leetcode-Note/tree/main/1427-perform-string-shifts) |
 | 2337 | [Move Pieces to Obtain a String](https://github.com/freakleesin/Leetcode-Note/tree/main/2337-move-pieces-to-obtain-a-string) |
 
@@ -240,6 +254,7 @@
 | 14 | [Longest Common Prefix](https://github.com/freakleesin/Leetcode-Note/tree/main/14-longest-common-prefix) |
 | 17 | [Letter Combinations of a Phone Number](https://github.com/freakleesin/Leetcode-Note/tree/main/17-letter-combinations-of-a-phone-number) |
 | 18 | [4sum](https://github.com/freakleesin/Leetcode-Note/tree/main/18-4sum) |
+| 19 | [Remove nth Node from End of List](https://github.com/freakleesin/Leetcode-Note/tree/main/19-remove-nth-node-from-end-of-list) |
 | 21 | [Merge Two Sorted Lists](https://github.com/freakleesin/Leetcode-Note/tree/main/21-merge-two-sorted-lists) |
 | 36 | [Valid Sudoku](https://github.com/freakleesin/Leetcode-Note/tree/main/36-valid-sudoku) |
 | 37 | [Sudoku Solver](https://github.com/freakleesin/Leetcode-Note/tree/main/37-sudoku-solver) |
@@ -247,6 +262,7 @@
 | 56 | [Merge Intervals](https://github.com/freakleesin/Leetcode-Note/tree/main/56-merge-intervals) |
 | 58 | [Length of Last Word](https://github.com/freakleesin/Leetcode-Note/tree/main/58-length-of-last-word) |
 | 59 | [Spiral Matrix II](https://github.com/freakleesin/Leetcode-Note/tree/main/59-spiral-matrix-ii) |
+| 66 | [Plus One](https://github.com/freakleesin/Leetcode-Note/tree/main/66-plus-one) |
 | 68 | [Text Justification](https://github.com/freakleesin/Leetcode-Note/tree/main/68-text-justification)
 | 73 | [Set Matrix Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/73-set-matrix-zeroes) |
 | 86 | [Partition List](https://github.com/freakleesin/Leetcode-Note/tree/main/86-partition-list) |
@@ -258,6 +274,7 @@
 | 172 | [Factorial Trailing Zeroes](https://github.com/freakleesin/Leetcode-Note/tree/main/172-factorial-trailing-zeroes) |
 | 217 | [Contains Duplicate](https://github.com/freakleesin/Leetcode-Note/tree/main/217-contains-duplicate) |
 | 202 | [Happy Number](https://github.com/freakleesin/Leetcode-Note/tree/main/202-happy-number) |
+| 229 | [Majority Element II](https://github.com/freakleesin/Leetcode-Note/tree/main/229-majority-element-ii) |
 | 237 | [Delete Node in a Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/237-delete-node-in-a-linked-list) |
 | 238 | [Product of Array Except Self](https://github.com/freakleesin/Leetcode-Note/tree/main/238-product-of-array-except-self) |
 | 252 | [Meeting Rooms](https://github.com/freakleesin/Leetcode-Note/tree/main/252-meeting-rooms) |
@@ -279,3 +296,5 @@
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://github.com/freakleesin/Leetcode-Note/blob/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) |
 | 2404 | [Most Frequent Even Element](https://github.com/freakleesin/Leetcode-Note/tree/main/2404-most-frequent-even-element) |
 | 2419 | [Longest Subarray with Maximum Bitwise AND](https://github.com/freakleesin/Leetcode-Note/tree/main/2419-longest-subarray-with-maximum-bitwise-and) |
+| 2438 | [Range Product Queries of Powers](https://github.com/freakleesin/Leetcode-Note/tree/main/2438-range-product-queries-of-powers) |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://github.com/freakleesin/Leetcode-Note/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
