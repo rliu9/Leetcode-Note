@@ -21,3 +21,8 @@ class Solution:
             res += 1
         if res > 0:res-=1
         return res if fresh == 0 else -1
+    
+if __name__ == '__main__':
+    solution = Solution()
+    assert 4 == solution.orangesRotting([[2,1,1],[1,1,0],[0,1,1]])
+    assert -1 == solution.orangesRotting([[2,1,1],[0,1,1],[1,0,1]])
