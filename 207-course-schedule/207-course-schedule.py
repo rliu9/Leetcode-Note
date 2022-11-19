@@ -1,20 +1,19 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         preMap = collections.defaultdict(list)
-        for crs,pre in prerequisites:
+        visit = set()
+        for crs, pre in prerequisites:
             preMap[crs].append(pre)
-        visitSet=set()
         def dfs(crs):
-            if crs in visitSet:return False
-            if not preMap[crs]:return True
-            visitSet.add(crs)
-            for pre in preMap[crs]:
-                if not dfs(pre): 
+            if crs in visit:return False
+            if preMap[crs] == []:return True
+            visit.add(crs)
+            for c in preMap[crs]:
+                if not dfs(c):
                     return False
-            visitSet.remove(crs)
-            preMap[crs]=[]
+            visit.remove(crs)
+            preMap[crs] = []
             return True
         for crs in range(numCourses):
-            if not dfs(crs):
-                return False
+            if not dfs(crs):return False
         return True
