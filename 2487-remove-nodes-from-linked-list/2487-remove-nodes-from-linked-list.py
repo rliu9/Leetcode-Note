@@ -8,11 +8,11 @@ class Solution:
         stack = []
         res = cur = ListNode()
         while head:
-            while stack and stack[-1] < head.val:
+            while stack and stack[-1].val < head.val:
                 stack.pop()
-            stack.append(head.val)
+            stack.append(head)
             head = head.next
         for i in stack:
-            cur.next = ListNode(i)
+            cur.next = i
             cur = cur.next
         return res.next
