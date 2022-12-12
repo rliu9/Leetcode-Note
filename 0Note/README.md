@@ -31,6 +31,10 @@ format.(2, '.5f') #2.00000
 
 ``` "{0:b}".format(int) == bin(int)[2:] ``` **Binary** ``` '{0:016b}'.format(int) ``` **16-digit binary string**
 
+``` isalpha() ``` only contains letters.
+
+``` isalnum() ``` contains alphanumeric characters, without symbols.
+
 # random
 
 ```
