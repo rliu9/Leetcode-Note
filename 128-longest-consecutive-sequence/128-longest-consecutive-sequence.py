@@ -6,12 +6,10 @@ class Solution:
         for i,n in enumerate(nums):
             if n-1 not in nums: # beginning of the consecutive sequence
                 m = n+1
-                temp = 0
                 while m in nums:
                     m += 1
-                    temp += 1
-                res = max(res, temp)
-        return res+1
+                res = max(res, m-n)
+        return res
         
     # Time Complexity: O(n)
     # Space Complexity: O(n)
