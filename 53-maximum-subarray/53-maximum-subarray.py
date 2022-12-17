@@ -15,5 +15,5 @@ class Solution:
         for i in nums:
             total += i
             res = max(res, total)
-            total = 0 if total < 0 else total
+            if total < 0: total = 0
         return res
