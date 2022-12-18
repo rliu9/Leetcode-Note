@@ -17,3 +17,6 @@ class Solution:
             if root1.val == root2.val and if_same(root1, root2):return True
             return dfs(root1.left, root2) or dfs(root1.right, root2)
         return dfs(root, subRoot)
+    
+    # O(mn)
+    # O(H)
