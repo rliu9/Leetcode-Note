@@ -19,3 +19,6 @@ class Solution:
                 if grid[r][c] == 1:
                     res = max(res, bfs(deque([(r,c)])))
         return res
+    
+    # O(mn)
+    # O(min(m,n))
