@@ -23,4 +23,8 @@ class Solution:
             for c in range(col):
                 if board[r][c] == '.':board[r][c] = 'O'
                 elif board[r][c] == 'O':board[r][c] = 'X'
+                    
+        # O(mn)
+        # O(mn)
         
+                    
