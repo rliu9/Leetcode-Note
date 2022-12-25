@@ -7,3 +7,6 @@ class Solution:
             elif matrix[x][y] < target: y+=1
             else:return True
         return False
+    
+    # O(m+n)
+    # O(1)
