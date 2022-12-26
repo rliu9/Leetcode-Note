@@ -8,9 +8,8 @@ class WordDistance:
 
     def shortest(self, word1: str, word2: str) -> int:
         w1, w2 = self.d[word1], self.d[word2]
-        if len(w1) > len(w2):return self.shortest(word2, word1)
-        res = float('inf')
         return min([abs(i-j) for i in w1 for j in w2])
+        # O(mn) m,n - occurrences for two words
 
 
 # Your WordDistance object will be instantiated and called as such:
