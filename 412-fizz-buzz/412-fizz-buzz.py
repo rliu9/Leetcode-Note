@@ -9,4 +9,4 @@ class Solution:
         return res
     
     # O(n)
-    # O(n)
+    # O(1)
