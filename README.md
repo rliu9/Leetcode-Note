@@ -226,6 +226,13 @@
 | 713 | [Subarray Product Less Than K](https://github.com/freakleesin/Leetcode-Note/tree/main/713-subarray-product-less-than-k) |
 | 1151 | [Minimum Swaps to Group all 1s Together](https://github.com/freakleesin/Leetcode-Note/tree/main/1151-minimum-swaps-to-group-all-1s-together) |
 
+## Trie
+| # | Problem |
+|---| ------- |
+| 208 | [Implement Trie (Prefix Tree)](https://github.com/rliu9/Leetcode-Note/tree/main/208-implement-trie-prefix-tree) |
+| 211 | [Design Add and Search Words Data Structure](https://github.com/rliu9/Leetcode-Note/tree/main/211-design-add-and-search-words-data-structure) |
+
+
 ## Two Pointer
 | # | Problem |
 |---| ------- |
