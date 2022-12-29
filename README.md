@@ -188,7 +188,9 @@
 ## SQL
 | # | Problem |
 |---| ------- |
+| 175 | [Combine Two Tables](https://github.com/rliu9/Leetcode-Note/tree/main/175-combine-two-tables) |
 | 182 | [Duplicate Emails](https://github.com/freakleesin/Leetcode-Note/tree/main/182-duplicate-emails) |
+| 197 | [Rising Temperature](https://github.com/rliu9/Leetcode-Note/tree/c69d9510042381d3fb5b10d64ba4b9892815f6d4/197-rising-temperature) |
 
 ## Stack
 | # | Problem |
