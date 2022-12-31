@@ -120,7 +120,9 @@
 | 53 | [Maximum Subarray](https://github.com/freakleesin/Leetcode-Note/tree/main/53-maximum-subarray) |
 | 55 | [Jump Game](https://github.com/freakleesin/Leetcode-Note/tree/main/55-jump-game) |
 | 134 | [Gas Station](https://github.com/freakleesin/Leetcode-Note/tree/main/134-gas-station) |
+| 435 | [Non Overlapping Intervals](https://github.com/rliu9/Leetcode-Note/tree/main/435-non-overlapping-intervals) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://github.com/freakleesin/Leetcode-Note/tree/main/452-minimum-number-of-arrows-to-burst-balloons) |
+
 | 2405 | [Optimal Partition of String](https://github.com/freakleesin/Leetcode-Note/tree/main/2405-optimal-partition-of-string) |
 | 2332 | [The Latest Time to Catch a Bus](https://github.com/freakleesin/Leetcode-Note/tree/main/2332-the-latest-time-to-catch-a-bus) |
 | 2429 | [Minimize XOR](https://github.com/freakleesin/Leetcode-Note/tree/main/2429-minimize-xor) |
