@@ -8,10 +8,10 @@ class Solution:
         dummy = res = ListNode()
         while list1 and list2:
             if list1.val < list2.val:
-                res.next = ListNode(list1.val)
+                res.next = list1
                 list1 = list1.next
             else:
-                res.next = ListNode(list2.val)
+                res.next = list2
                 list2 = list2.next
             res = res.next
         if list1:
