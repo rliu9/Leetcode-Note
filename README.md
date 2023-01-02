@@ -56,11 +56,12 @@
 | 191 | [Number of 1 Bits](https://github.com/freakleesin/Leetcode-Note/tree/main/191-number-of-1-bits) |
 | 201 | [Bitwise and of Numbers Range](https://github.com/freakleesin/Leetcode-Note/tree/main/201-bitwise-and-of-numbers-range) |
 
-## Cycle | FastSlow (Two Points in Linked List)
+## Cycle | FastSlow (Two Pointers in Linked List)
 | # | Problem |
 |---| ------- |
 | 19 | [Remove-Nth-Node-From-End-of-List](https://github.com/freakleesin/Leetcode-Note/tree/main/19-remove-nth-node-from-end-of-list) |
 | 61 | [Rotate List](https://github.com/freakleesin/Leetcode-Note/tree/main/61-rotate-list) |
+| 86 | [Partition List](https://github.com/rliu9/Leetcode-Note/tree/main/86-partition-list) |
 | 141 | [Linked List Cycle](https://github.com/freakleesin/Leetcode-Note/tree/main/141.%20Linked%20List%20Cycle) |
 | 142 | [Linked List Cycle II](https://github.com/freakleesin/Leetcode-Note/tree/main/142.%20Linked%20List%20Cycle%20II) |
 | 143 | [Reorder List](https://github.com/freakleesin/Leetcode-Note/tree/main/143-reorder-list) |
