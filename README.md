@@ -64,6 +64,7 @@
 | 86 | [Partition List](https://github.com/rliu9/Leetcode-Note/tree/main/86-partition-list) |
 | 141 | [Linked List Cycle](https://github.com/freakleesin/Leetcode-Note/tree/main/141.%20Linked%20List%20Cycle) |
 | 142 | [Linked List Cycle II](https://github.com/freakleesin/Leetcode-Note/tree/main/142.%20Linked%20List%20Cycle%20II) |
+| 160 | [Intersection of Two Linked Lists](https://github.com/rliu9/Leetcode-Note/tree/main/160-intersection-of-two-linked-lists) |
 | 143 | [Reorder List](https://github.com/freakleesin/Leetcode-Note/tree/main/143-reorder-list) |
 | 876 | [Middle of the Linked List](https://github.com/freakleesin/Leetcode-Note/tree/main/876.%20Middle%20of%20the%20Linked%20List) |
 
