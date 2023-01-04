@@ -27,13 +27,17 @@ format.(2, '.5f') #2.00000
 
 ``` dict(sorted(dictionary.items(), key=lambda x:x[1])) --- ``` **Sort Dictionary by values**
 
-``` eval('1 * 2') = 2 ``` ``` x,op,y = '2','+','3'; eval(f'{x} {op} {y}') = 5 --- ``` **Eval()**:Performs op passed as argument 
+``` eval('1 * 2') = 2 ``` ``` x,op,y = '2','+','3'; eval(f'{x} {op} {y}') = 5 --- ``` **Eval():Performs op passed as argument**
 
 ``` "{0:b}".format(int) == bin(int)[2:] ``` **Binary** ``` '{0:016b}'.format(int) ``` **16-digit binary string**
 
-``` isalpha() ``` only contains letters.
+``` isalpha() ``` --- **only contains letters**
 
-``` isalnum() ``` contains alphanumeric characters, without symbols.
+``` isalnum() ``` --- **contains alphanumeric characters, without symbols**
+
+``` n & (n-1) ``` --- **remove rightmost set bit**
+
+``` a & 0 = a ``` ``` a & a = 0 ``` --- **Bitwise AND Operator**
 
 # random
 
