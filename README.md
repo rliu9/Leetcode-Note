@@ -53,6 +53,7 @@
 | # | Problem |
 |---| ------- |
 | 136 | [Single Number](https://github.com/freakleesin/Leetcode-Note/tree/main/136-single-number) |
+| 190 | [Reverse Bits](https://github.com/rliu9/Leetcode-Note/tree/main/190-reverse-bits) |
 | 191 | [Number of 1 Bits](https://github.com/freakleesin/Leetcode-Note/tree/main/191-number-of-1-bits) |
 | 201 | [Bitwise and of Numbers Range](https://github.com/freakleesin/Leetcode-Note/tree/main/201-bitwise-and-of-numbers-range) |
 | 338 | [Counting Bits](https://github.com/rliu9/Leetcode-Note/tree/main/338-counting-bits) |
