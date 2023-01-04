@@ -10,3 +10,6 @@ class Solution:
                 n += 1
             res.append(n)
         return res
+    
+    # O(nlogn)
+    # O(1)
