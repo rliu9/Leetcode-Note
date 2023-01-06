@@ -17,22 +17,21 @@ class WordDictionary:
         node.word = True
 
     def search(self, word: str) -> bool:
-        return self.dfs(0, self.root, word)
-    
-    def dfs(self, idx, root, word):
+        return self.dfs(word, 0, self.root)
+        
+    def dfs(self, word, idx, root):
         node = root
         for i in range(idx, len(word)):
-            s = word[i]
             if word[i] == '.':
                 for child in node.children.values():
-                    if self.dfs(i+1, child, word):
+                    if self.dfs(word, i+1, child):
                         return True
                 return False
             else:
-                if s not in node.children:
+                if word[i] not in node.children:
                     return False
-                node = node.children[s]
-                return self.dfs(i+1, node, word)
+                node = node.children[word[i]]
+                return self.dfs(word, i+1, node)
         return node.word
 
 
