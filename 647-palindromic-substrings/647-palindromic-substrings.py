@@ -15,8 +15,8 @@ class Solution:
             ret += 1
         return ret
     
-    # O(n)
-    # O(n)
+    # O(n^2)
+    # O(1)
     
 if __name__ == '__main__':
     s = Solution()
