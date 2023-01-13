@@ -15,9 +15,7 @@ class LRUCache:
             self.od.move_to_end(key)
         else:
             if len(self.od) >= self.capacity:
-                for k,v in self.od.items():
-                    self.od.pop(k)
-                    break
+                self.od.popitem(last=False)
         self.od[key] = value
         
             
