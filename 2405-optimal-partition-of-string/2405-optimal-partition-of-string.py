@@ -9,3 +9,6 @@ class Solution:
             else:
                 cur += i
         return res
+    
+    #O(n)
+    #O(n)
