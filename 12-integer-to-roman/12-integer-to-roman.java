@@ -1,31 +1,32 @@
-class Solution:
-    def intToRoman(self, num: int) -> str:
-        d = {
-            1:"I",
-            2:"II",
-            3:"III",
-            4:"IV",
-            5:"V",
-            6:"VI",
-            7:"VII",
-            8:"VIII",
-            9:"IX",
-            10:"X",
-            40:"XL",
-            50:"L",
-            90:"XC",
-            100:"C",
-            400:"CD",
-            500:"D",
-            900:"CM",
-            1000:"M",
+class Solution {
+    public String intToRoman(int num) {
+        HashMap<Integer, String> map = new HashMap<Integer,String>();
+        map.put(1000, "M");
+        map.put(900, "CM");
+        map.put(500, "D");
+        map.put(400, "CD");
+        map.put(100, "C");
+        map.put(90, "XC");
+        map.put(50, "L");
+        map.put(40, "XL");
+        map.put(10, "X");
+        map.put(9, "IX");
+        map.put(8, "VIII");
+        map.put(7, "VII");
+        map.put(6, "VI");
+        map.put(5, "V");
+        map.put(4, "IV");
+        map.put(3, "III");
+        map.put(2, "II");
+        map.put(1, "I");
+        String s = "";
+        List<Integer> keys = new ArrayList<Integer>(map.keySet());
+        Collections.sort(keys, Collections.reverseOrder());
+        for (int value:keys){
+            int amount = num / value;
+            s += map.get(value).repeat(amount);
+            num -= amount*value;
         }
-        res = ''
-        for i in reversed(d):
-            amount = num // i
-            res += amount*d[i]
-            num -= amount*i
-        return res
-    
-    # O(1)
-    # O(1)
+        return s;
+    }
+}
