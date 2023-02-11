@@ -3,17 +3,13 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        zeros_row, zeros_col = set(), set()
-        for row in range(len(matrix)):
-            for col in range(len(matrix[0])):
-                if matrix[row][col] == 0:
-                    zeros_row.add(row)
-                    zeros_col.add(col)
-                    
-        for r in range(len(matrix)):
-            for c in range(len(matrix[0])):
-                if r in zeros_row or c in zeros_col:
-                    matrix[r][c] = 0
-                    
-        # Time Complexity: O(M*N)
-        # Space Complexity: O(M+N)
+        zeros = []
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                if matrix[i][j] == 0:zeros.append((i,j))
+        for r,c in zeros:
+            for i in range(len(matrix)):
+                matrix[i][c] = 0
+            for j in range(len(matrix[0])):
+                matrix[r][j] = 0
+        
