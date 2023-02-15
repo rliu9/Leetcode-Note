@@ -10,8 +10,7 @@ class Solution:
                 if grid[r][c] == 2:
                     q.append((r,c))
                     visit.add((r,c))
-                elif grid[r][c] == 1:fresh += 1
-                    
+                elif grid[r][c] == 1:fresh += 1           
         while q:
             for _ in range(len(q)):
                 x, y = q.popleft()
@@ -24,7 +23,13 @@ class Solution:
             res += 1
         if res == 0:return res if fresh == 0 else -1
         return res-1 if fresh == 0 else -1
-        
+
+    # O(mn)
+    # O(mn)
+if __name__ == '__main__':
+    solution = Solution()
+    assert 4 == solution.orangesRotting([[2,1,1],[1,1,0],[0,1,1]])
+    assert -1 == solution.orangesRotting([[2,1,1],[0,1,1],[1,0,1]])
         
         
         
