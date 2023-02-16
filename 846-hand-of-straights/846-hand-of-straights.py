@@ -1,15 +1,18 @@
 class Solution:
     def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
-        #if 2*groupSize > len(hand):return False
+        # greedy
         hand.sort()
-        d = Counter(hand)
-        while len(hand) != 0:
+        c = collections.Counter(hand)
+        while hand:
             temp = hand[0]
             for _ in range(groupSize):
-                if temp not in d:return False
-                d[temp] -= 1
+                if c[temp] <= 0:return False
                 hand.remove(temp)
-                if d[temp] == 0: del d[temp]
+                c[temp] -= 1
                 temp += 1
         return True
+    
+    # O(nlogn)
+    # O(n)
+                
                 
