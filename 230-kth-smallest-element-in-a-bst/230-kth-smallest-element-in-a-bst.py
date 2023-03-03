@@ -12,5 +12,9 @@ class Solution:
             l.append(root.val)
             dfs(root.left)
             dfs(root.right)
-        dfs(root) # O(n)
-        return sorted(l)[k-1]
+        dfs(root)
+        heapq.heapify(l)
+        return heapq.nsmallest(k, l)[-1]
+    
+    # O(n)
+    # O(n)
