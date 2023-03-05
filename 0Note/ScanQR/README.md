@@ -2,7 +2,7 @@
 
 
 ## Fake QR codes
-Attackers can use a variety of means to create fake QR codes that look identical to normal QR codes but direct users to a fake login page to steal sensitive information such as account numbers and passwords.
+- Attackers can use a variety of means to create fake QR codes that look identical to normal QR codes but direct users to a fake login page to steal sensitive information such as account numbers and passwords.
 
 ## Man-in-the-middle attack
 - The attacker obtains the QR code that the user scans during normal login through various means and forges it into their own QR code.
