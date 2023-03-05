@@ -12,3 +12,6 @@ class Solution:
             root.left = self.buildTree(preorder, inorder[0:idx])
             root.right = self.buildTree(preorder, inorder[idx+1:])
             return root
+        
+        # O(n^2)
+        # O(n)
