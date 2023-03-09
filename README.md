@@ -34,7 +34,6 @@
 ## Binary Search
 | # | Problem |
 |---| ------- |
-| 16 | [3sum Closest](https://github.com/freakleesin/Leetcode-Note/tree/main/16-3sum-closest) |
 | 33 | [Search in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/33.%20Search%20in%20Rotated%20Sorted%20Array) |
 | 35 | [Search Insert Position](https://github.com/freakleesin/Leetcode-Note/tree/main/35-search-insert-position) |
 | 69 | [Sqrtx](https://github.com/freakleesin/Leetcode-Note/tree/main/69-sqrtx) |
@@ -250,7 +249,7 @@
 | 212 | [Word Search II](https://github.com/rliu9/Leetcode-Note/tree/main/212-word-search-ii) |
 
 
-## Two Pointer
+## Two Pointers
 | # | Problem |
 |---| ------- |
 | 11 | [Container With Most Water](https://github.com/freakleesin/Leetcode-Note/tree/main/11-container-with-most-water) |
