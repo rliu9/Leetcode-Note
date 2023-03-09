@@ -42,6 +42,7 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://github.com/freakleesin/Leetcode-Note/tree/main/153-find-minimum-in-rotated-sorted-array) |
 | 162 | [Find Peak Element](https://github.com/freakleesin/Leetcode-Note/blob/main/162.%20Find%20Peak%20Element.py) |
 | 367 | [Valid Perfect Square](https://github.com/freakleesin/Leetcode-Note/tree/main/367-valid-perfect-square) |
+| 441 | [Arranging Coins](https://github.com/rliu9/Leetcode-Note/tree/main/441-arranging-coins) |
 | 704 | [Binary Search](https://github.com/freakleesin/Leetcode-Note/tree/main/704-binary-search) | 
 | 719 | [Find k th Smallest Pair Distance](https://github.com/freakleesin/Leetcode-Note/blob/main/719-find-k-th-smallest-pair-distance/719-find-k-th-smallest-pair-distance.py) |
 | 852 | [Peak Index in a Mountain Array](https://github.com/freakleesin/Leetcode-Note/tree/main/852-peak-index-in-a-mountain-array) |
