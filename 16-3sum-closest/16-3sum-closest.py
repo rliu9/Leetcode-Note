@@ -1,12 +1,12 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
-        n, diff, res = len(nums), float('inf'), 0
+        diff, n, res = float('inf'), len(nums), 0
         nums.sort()
         for i in range(n):
             left, right = i+1, n-1
             while left < right:
-                cur = nums[left] + nums[i] + nums[right]
-                d = abs(target-cur)
+                cur = nums[i] + nums[left] + nums[right]
+                d = abs(cur - target)
                 if d == 0:return cur
                 if d < diff:
                     diff = d
@@ -16,3 +16,7 @@ class Solution:
                 else:
                     right -= 1
         return res
+    
+    # O(n^2)
+    # O(n) -- sort
+                
