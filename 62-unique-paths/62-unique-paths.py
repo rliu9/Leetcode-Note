@@ -10,4 +10,4 @@ class Solution:
         return dp[-1][-1]
     
     # O(mn)
-    # O*mn
+    # O(mn)
