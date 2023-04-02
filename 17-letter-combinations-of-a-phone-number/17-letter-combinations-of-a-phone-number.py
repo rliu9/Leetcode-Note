@@ -11,7 +11,9 @@ class Solution:
             9: 'wxyz'
         }
         res = []
-        for i in digits:res.append(phone[int(i)])
+        for i in digits:
+            res.append(phone[int(i)])
+        print(res)
         while len(res) > 1:
             l1 = res.pop()
             l2 = res.pop()
