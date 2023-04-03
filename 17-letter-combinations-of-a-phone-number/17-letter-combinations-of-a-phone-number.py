@@ -1,6 +1,8 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        phone = {
+        # bfs
+        if not digits:return
+        phone_letters = {
             2: 'abc',
             3: 'def',
             4: 'ghi',
@@ -10,16 +12,13 @@ class Solution:
             8: 'tuv',
             9: 'wxyz'
         }
-        res = []
-        for i in digits:
-            res.append(phone[int(i)])
-        print(res)
-        while len(res) > 1:
-            l1 = res.pop()
-            l2 = res.pop()
-            temp = []
-            for i in l2:
-                for j in l1:
-                    temp.append(i+j)
-            res.append(temp)
-        return res[0] if res else []
+        q = deque(phone_letters[int(digits[0])])
+        for i in range(1,len(digits)):
+            s = len(q)
+            while s:
+                out = q.popleft()
+                for j in phone_letters[int(digits[i])]:
+                    q.append(out + j)
+                s -= 1
+                
+        return q
