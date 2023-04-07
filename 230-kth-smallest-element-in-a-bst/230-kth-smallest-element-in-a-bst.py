@@ -14,7 +14,5 @@ class Solution:
             dfs(root.right)
         dfs(root)
         heapq.heapify(l)
-        return heapq.nsmallest(k, l)[-1]
-    
-    # O(n)
-    # O(n)
+        for _ in range(k-1):heapq.heappop(l)
+        return l[0]
