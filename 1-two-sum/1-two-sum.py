@@ -1,11 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-    
-        hashtb = {}
+        d = {}
         for i, n in enumerate(nums):
-            if target-n in hashtb:
-                return [hashtb[target-n], i]
-            hashtb[n] = i
-            
+            if target-n in d:
+                return [d[target-n], i]
+            d[n] = i
+        
     # Time Complexity: O(n)
     # Space Complexity: O(n)
