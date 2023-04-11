@@ -8,7 +8,7 @@ class Solution:
         
         nums[:red] = [0] * red
         nums[red:red+white] = [1] * white
-        nums[red+white:] = [2] * blue
+        nums[red+white:]= [2] * blue
         
         # O(n)
         # O(n)
