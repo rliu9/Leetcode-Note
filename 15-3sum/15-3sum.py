@@ -1,14 +1,13 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
-        visit, res = set(), set()
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
+        visit, n , res= set(), len(nums), set()
+        for i in range(n):
+            for j in range(i+1, n):
                 if -nums[i]-nums[j] in visit:
                     res.add((-nums[i]-nums[j], nums[i], nums[j]))
             visit.add(nums[i])
         return list(res)
-                
     # time complexity: O(n^2)
     # space complexity: O(n)
 
