@@ -12,9 +12,5 @@ class Solution:
             d[depth].append(root.val)
             dfs(root.left, depth+1)
             dfs(root.right, depth+1)
-        dfs(root,0)
+        dfs(root, 0)
         return d.values()
-    
-    # O(n)
-    # O(n)
-        
