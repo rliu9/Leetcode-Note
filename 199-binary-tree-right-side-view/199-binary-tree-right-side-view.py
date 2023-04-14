@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        d = {}
+        d = collections.defaultdict(int)
         def dfs(root, depth):
             if not root:return
             d[depth] = root.val
