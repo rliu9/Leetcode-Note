@@ -209,9 +209,14 @@
 | # | Problem |
 |---| ------- |
 | 20 | [Valid Parentheses](https://github.com/freakleesin/Leetcode-Note/tree/main/20-valid-parentheses) |
+| 71 | [Simplify Path](https://github.com/rliu9/Leetcode-Note/tree/306dd08b6ee2b199cb0542637411f49177edccb7/71-simplify-path) |
 | 150 | [Evaluate Reverse Polish Notation](https://github.com/freakleesin/Leetcode-Note/tree/main/150-evaluate-reverse-polish-notation) |
-| 155 | [min Stack](https://github.com/freakleesin/Leetcode-Note/tree/main/155-min-stack) |
+| 155 | [Min Stack](https://github.com/freakleesin/Leetcode-Note/tree/main/155-min-stack) |
 | 739 | [Daily Temperatures](https://github.com/freakleesin/Leetcode-Note/tree/main/739-daily-temperatures) |
+| 844 | [Backspace String Compare](https://github.com/rliu9/Leetcode-Note/tree/1a479279e215ed33adb7524a4b9cd9b64bb5e66d/844-backspace-string-compare) |
+| 2289 | [Steps to Make Array Non-decreasing](https://github.com/rliu9/Leetcode-Note/tree/bc8c6a884076e05ca7cee6c699f8ccfbdc5c8261/2289-steps-to-make-array-non-decreasing) |
+| 2487 | [Remove Nodes From Linked List](https://github.com/rliu9/Leetcode-Note/tree/c0189e2a71fc483af7c3dd94e4a9b83fc6870b15/2487-remove-nodes-from-linked-list) |
+| 2645 | [Minimum Additions to Make Valid String](https://github.com/rliu9/Leetcode-Note/tree/main/2645-minimum-additions-to-make-valid-string) |
 
 ## String
 | # | Problem |
