@@ -212,6 +212,7 @@
 | 71 | [Simplify Path](https://github.com/rliu9/Leetcode-Note/tree/306dd08b6ee2b199cb0542637411f49177edccb7/71-simplify-path) |
 | 150 | [Evaluate Reverse Polish Notation](https://github.com/freakleesin/Leetcode-Note/tree/main/150-evaluate-reverse-polish-notation) |
 | 155 | [Min Stack](https://github.com/freakleesin/Leetcode-Note/tree/main/155-min-stack) |
+| 224 | [Basic Calculator](https://github.com/rliu9/Leetcode-Note/tree/main/224-basic-calculator) |
 | 232 | [Implement Queue Using Stacks](https://github.com/rliu9/Leetcode-Note/tree/main/232-implement-queue-using-stacks) |
 | 739 | [Daily Temperatures](https://github.com/freakleesin/Leetcode-Note/tree/main/739-daily-temperatures) |
 | 844 | [Backspace String Compare](https://github.com/rliu9/Leetcode-Note/tree/1a479279e215ed33adb7524a4b9cd9b64bb5e66d/844-backspace-string-compare) |
