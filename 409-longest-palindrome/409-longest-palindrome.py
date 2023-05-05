@@ -1,11 +1,17 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        res = 0
-        counter = collections.Counter(s)
-        for c in counter:
-            if counter[c] % 2 == 0:
-                res += counter[c]
+        char = {}
+        for i in s:
+            if i not in char:
+                char[i] = 1
             else:
-                if counter[c] > 2:
-                    res += counter[c]-1
-        return res if res == len(s) else res + 1
+                char[i] += 1
+        res = 0
+        for c in char:
+            if char[c] % 2 == 0:
+                res += char[c]
+            else:
+                if char[c] > 2:
+                    res += char[c]-1
+        return res + 1 if len(s) > res else res
+                    
