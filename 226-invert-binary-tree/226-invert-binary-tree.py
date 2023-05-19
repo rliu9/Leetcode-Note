@@ -8,6 +8,10 @@ class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         def dfs(root):
             if not root:return
-            root.left, root.right = dfs(root.right), dfs(root.left)
+            left = dfs(root.left)
+            right = dfs(root.right)
+            root.left = right
+            root.right = left
             return root
-        return dfs(root)
+        dfs(root)
+        return root
