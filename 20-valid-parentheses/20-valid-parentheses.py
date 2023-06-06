@@ -1,17 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        for i in s:
-            if i == '(':stack.append(')')
-            elif i == '{':stack.append('}')
-            elif i == '[':stack.append(']')
+        for c in s:
+            if c == '(':stack.append(')')
+            elif c == '{':stack.append('}')
+            elif c == '[':stack.append(']')
             else:
-                if not stack or stack.pop() != i:
-                    return False
+                if not stack or stack.pop() != c:return False
         return not stack
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
     
-if __name__ == '__main__':
-    assert True == Solution().isValid("()[]{}")
-    assert False == Solution().isValid("(]")
+    # O(n)
+    # O(n)
