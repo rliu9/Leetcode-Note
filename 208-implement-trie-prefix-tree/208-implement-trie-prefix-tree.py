@@ -1,7 +1,7 @@
-class TrieNode():
+class TrieNode:
     def __init__(self):
-        self.children = {}
         self.word = False
+        self.children = {}
 
 class Trie:
 
@@ -21,8 +21,7 @@ class Trie:
         for s in word:
             if s not in node.children:
                 return False
-            else:
-                node = node.children[s]
+            node = node.children[s]
         return node.word
 
     def startsWith(self, prefix: str) -> bool:
