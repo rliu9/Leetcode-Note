@@ -6,15 +6,20 @@ class LRUCache:
 
     def get(self, key: int) -> int:
         if key in self.od:
-            self.od.move_to_end(key, last=False)
+            self.od.move_to_end(key, last=True)
             return self.od[key]
         return -1
 
     def put(self, key: int, value: int) -> None:
-        self.od[key] = value
-        self.od.move_to_end(key, last=False)
-        if len(self.od) > self.capacity:
-            self.od.popitem(last=True)
+        if key in self.od:
+            self.od.move_to_end(key, last=True)
+            self.od[key] = value
+        else:
+            if len(self.od) >= self.capacity:
+                self.od.popitem(last=False)
+                self.od[key] = value
+            else:
+                self.od[key] = value
 
 
 # Your LRUCache object will be instantiated and called as such:
