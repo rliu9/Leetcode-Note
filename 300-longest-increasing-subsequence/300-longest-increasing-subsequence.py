@@ -4,9 +4,9 @@ class Solution:
         n = len(nums)
         dp = [1] * n
         for i in range(n):
-            for j in range(i-1, -1, -1):
-                if nums[j] < nums[i]:
-                    dp[i] = max(dp[i], dp[j]+1)
+            for j in range(i+1, n):
+                if nums[j] > nums[i]:
+                    dp[j] = max(dp[j], dp[i]+1)
         return max(dp)
     
 if __name__ == '__main__':
