@@ -3,6 +3,7 @@ class Solution:
         idx, l, r = 0, 0, len(matrix[0])-1
         for n in (zip(*matrix)):
             for m in n:
+                print(m)
                 if m>target:break
                 idx += 1
             break
