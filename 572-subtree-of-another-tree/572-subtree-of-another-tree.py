@@ -20,6 +20,4 @@ class Solution:
                 return True
             return dfs(root.left, subRoot) or dfs(root.right, subRoot)
         
-        if not subRoot:
-            return True
         return dfs(root, subRoot)
