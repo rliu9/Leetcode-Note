@@ -1,19 +1,14 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        N = len(isConnected)
         seen = set()
         def dfs(node):
-            for nei, adj in enumerate(isConnected[node]):
-                if adj and nei not in seen:
+            for nei, connected in enumerate(isConnected[node]):
+                if connected and nei not in seen:
                     seen.add(nei)
                     dfs(nei)
-
-        ans = 0
-        for i in range(N):
-            if i not in seen:
-                dfs(i)
-                ans += 1
-        return ans
-    
-    # time complexity: O(M*N) M:row N:col; row = col = n -> O(n*2)
-    # space complexity: O(n)
+        res = 0
+        for city in range(len(isConnected)):
+            if city not in seen:
+                dfs(city)
+                res += 1
+        return res
